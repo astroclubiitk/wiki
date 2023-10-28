@@ -1,8 +1,8 @@
 ---
-title: Equitorial
+title: Equatorial
 layout: default
 parent: Coordinate Systems
 grand_parent: Observation
 ---
 
-## Equitorial Coordinate system
+## Equa torial Coordinate system
