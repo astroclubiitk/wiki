@@ -8,6 +8,8 @@ nav_order: 1
 
 ## Time Lapse
 
+---
+
 ### Code
 
 The following code is written in python. Install the dependencies using:
