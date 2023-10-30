@@ -11,7 +11,12 @@ nav_order: 1
 <br>
 A constellation is a pattern of stars in the night sky. The word is derived from the Latin word "constellacio", which means "set of stars". There are 88 official constillations, all with well defined boundaries. The boundaries of the constellations were defined in 1930 by the [International Astronomical Union](https://www.iau.org/) (IAU).
 
-Some examples of constellations are Ursa Major, Orion, Crux, Taurus etc.
+Some examples of constellations are:
+
+1. Ursa Major
+2. Orion
+3. Crux
+4. Taurus
 
 ---
 
@@ -32,7 +37,7 @@ Some examples of asterisms are:
 ## Stars
 
 <br>
-The 88 [constellations](.) are all given three-letter abbreviations that help identify them. Stars that lie within a constellation boundary are referred to with these three-letter codes. In addition, stargazers often use what's called the genitive form of the constellation name. For example, the genetive form of Orion is _Orionis_. So, if you are referring to a star in Orion, you would call it "something Orionis".
+The 88 [constellations](./constellations.html#constellations) are all given three-letter abbreviations that help identify them. Stars that lie within a constellation boundary are referred to with these three-letter codes. In addition, stargazers often use what's called the genitive form of the constellation name. For example, the genetive form of Orion is _Orionis_. So, if you are referring to a star in Orion, you would call it "something Orionis".
 
 The brightest stars in any constellation are usually the ones that are used to make up the pattern, and many of the bright stars stand out so much that they’ve been given proper names. Regardless of whether a star has a proper name or not, though, the bright ones all have Greek letters associated with them.
 
@@ -45,3 +50,7 @@ When a star is bright enough to be given its own Bayer letter, that Greek letter
 ### Proper names
 
 Some of the brightest stars have a proper name, which you can use interchangeably with the star's Bayer designation. For example, the brightest star in the constellation Carina is called _Canopus_, and it also has the Bayer designation α-Carinae. Most stars have proper names from Latin, Greek or Arabic.
+
+---
+
+## Commonly known Constellations and Asterisms
