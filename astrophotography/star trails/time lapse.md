@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Time Lapse
 
----
+<br>
 
 ### Code
 

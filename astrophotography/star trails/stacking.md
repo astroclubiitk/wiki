@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Stacking
 
----
+<br>
 
 ### Code
 
