@@ -14,6 +14,12 @@ color_scheme: dark
 back_to_top: true
 back_to_top_text: 'Back to top'
 
+# LaTeX rendering via "katex" (KaTeX, default) or "mathjax" (MathJax) or "none" / "off" (NO rendering)
+mathjax: true
+latex: mathjax
+compress_html:
+  blanklines: true
+
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: 'Edit this page on GitHub'
