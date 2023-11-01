@@ -14,6 +14,29 @@ color_scheme: dark
 back_to_top: true
 back_to_top_text: 'Back to top'
 
+# For callouts
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 # LaTeX rendering via "katex" (KaTeX, default) or "mathjax" (MathJax) or "none" / "off" (NO rendering)
 mathjax: true
 latex: mathjax
