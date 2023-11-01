@@ -8,6 +8,7 @@ nav_order: 1
 
 ## Magnitudes
 
+<br />
 Magnitude is essentially a measure of the brightness of an object. It doesn't have any units of measurement. The lower the magnitude, the brighter the object. The magnitude scale is logarithmic in nature, i.e., a difference of 1 magnitude corresponds to a difference of ~2.5 times in brightness.
 
 The scale was originally invented by the Alexandrian astronomer, Ptolemy, where he classified the objects on a six-point scale. In the northern hemisphere, Vega is one of the brightest stars, earning itself a magnitude of 0. The other stars were classified with Vega as reference.
