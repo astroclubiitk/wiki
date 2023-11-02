@@ -43,13 +43,13 @@ The brightest stars in any constellation are usually the ones that are used to m
 
 ### Bayer letters
 
-The brightest star in any constellation is usually given the designation _alpha_, represented by the Greek letter α, while the second brightest is _beta_, β and so on. There Greek letters are known as _Bayer_ letters.
+The brightest star in any constellation is usually given the designation _alpha_, represented by the Greek letter $$\alpha$$, while the second brightest is _beta_, $$\beta$$ and so on. There Greek letters are known as _Bayer_ letters.
 
 When a star is bright enough to be given its own Bayer letter, that Greek letter is added as a prefix to the three-letter constellation abbreviations. So, if you see a star named as α, many times, it's the brightest one in that constellation.
 
 ### Proper names
 
-Some of the brightest stars have a proper name, which you can use interchangeably with the star's Bayer designation. For example, the brightest star in the constellation Carina is called _Canopus_, and it also has the Bayer designation α-Carinae. Most stars have proper names from Latin, Greek or Arabic.
+Some of the brightest stars have a proper name, which you can use interchangeably with the star's Bayer designation. For example, the brightest star in the constellation Carina is called _Canopus_, and it also has the Bayer designation $$\alpha$$-Carinae. Most stars have proper names from Latin, Greek or Arabic.
 
 ---
 
