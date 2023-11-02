@@ -8,8 +8,7 @@ nav_order: 2
 
 ## AstroQuery
 
----
-
+<br />
 [AstroQuery]() is a python package that can be installed using:
 
 ```sh
