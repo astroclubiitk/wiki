@@ -3,7 +3,7 @@ title: Belt of Venus
 layout: default
 parent: Day Sky
 grand_parent: Observation
-nav_order: 3
+nav_order: 4
 ---
 
 ## Belt of Venus
@@ -15,7 +15,7 @@ The Belt of Venus gets its name from the ancient Greek goddess Aphrodite. She wa
 
 When the Sun is below the observer’s line of sight, incoming sunlight passes through more atmosphere near the horizon, which causes the observer to see pink wavelengths of light backscattered from the atmosphere.
 
-It can be visibly seen in this amazing shot of the Turkish National Observatory by [M. Raşid Tuğral](https://www.linkedin.com/in/n%C3%BCkleer-kedi-m-ra%C5%9Fid-tu%C4%9Fral-a9710a26/):
+It can be visibly seen in this amazing shot of the Turkish National Observatory by [M. Raşid Tuğral](https://www.linkedin.com/in/n%C3%BCkleer-kedi-m-ra%C5%9Fid-tu%C4%9Fral-a9710a26//):
 
 ![Belt of Venus from the Turkey National Observatory](../../assets/images/observation/day%20sky/belt%20of%20venus/turkish%20observatory.png)
 
