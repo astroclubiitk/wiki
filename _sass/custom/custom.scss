@@ -1,3 +1,17 @@
+a.site-title {
+  padding: 0px;
+  display: flex;
+  padding-left: 14px;
+  align-items: center;
+}
+
 footer.site-footer {
   display: none;
+}
+
+@media (min-width: 800px) {
+  .site-title {
+    padding-left: 0px !important;
+    justify-content: center;
+  }
 }
