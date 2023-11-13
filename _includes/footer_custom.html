@@ -1,0 +1,41 @@
+{% if site.socials %}
+
+<div class="footer-icons">
+  {% if site.socials.email %}
+  <a href="mailto:{{ site.socials.email }}" target="_blank">
+    <i class="fa-solid fa-envelope fa-xl"></i>
+  </a>
+  {% endif %} {% if site.socials.discord %}
+  <a href="{{ site.socials.discord }}" target="_blank">
+    <i class="fa-brands fa-discord fa-xl"></i>
+  </a>
+  {% endif %} {% if site.socials.facebook %}
+  <a href="{{ site.socials.facebook }}" target="_blank">
+    <i class="fa-brands fa-facebook fa-xl"></i>
+  </a>
+  {% endif %} {% if site.socials.instagram %}
+  <a href="{{ site.socials.instagram }}" target="_blank">
+    <i class="fa-brands fa-instagram fa-xl"></i>
+  </a>
+  {% endif %} {% if site.socials.youtube %}
+  <a href="{{ site.socials.youtube }}" target="_blank">
+    <i class="fa-brands fa-youtube fa-xl"></i>
+  </a>
+  {% endif %} {% if site.socials.x %}
+  <a href="{{ site.socials.x }}" target="_blank">
+    <i class="fa-brands fa-x-twitter fa-xl"></i>
+  </a>
+  {% endif %} {% if site.socials.linkedin %}
+  <a href="{{ site.socials.linkedin }}" target="_blank">
+    <i class="fa-brands fa-linkedin fa-xl"></i>
+  </a>
+  {% endif %}
+</div>
+
+{% endif %}
+
+<hr />
+
+{% if site.back_to_top_text %}
+<a href="#top">{{ site.back_to_top_text }}</a>
+{% endif %}

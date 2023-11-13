@@ -11,7 +11,7 @@ favicon_ico: '/assets/images/favicon.ico'
 color_scheme: dark
 
 # Back to top link
-back_to_top: true
+back_to_top: false
 back_to_top_text: 'Back to top'
 
 # For callouts
@@ -36,6 +36,15 @@ callouts:
   warning:
     title: Warning
     color: red
+
+socials:
+  facebook: 'https://www.facebook.com/AstroClubIITK/'
+  instagram: 'https://instagram.com/astroclub.iitk'
+  youtube: 'https://www.youtube.com/c/AstroclubIITK'
+  linkedin: 'https://www.linkedin.com/company/astroclubiitk/'
+  x: 'https://x.com/astroclubiitk'
+  discord: 'https://discord.gg/xTbxM6RthY'
+  email: 'astroclub@iitk.ac.in'
 
 # LaTeX rendering via "katex" (KaTeX, default) or "mathjax" (MathJax) or "none" / "off" (NO rendering)
 mathjax: true
@@ -63,7 +72,7 @@ exclude:
   - gemfiles/
   - Gemfile
   - Gemfile.lock
-  - node_modules/
+  - node_modules/{%
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
