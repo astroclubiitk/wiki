@@ -24,7 +24,7 @@ nav_order: 3
 | Vasu Paliwal     | Mechanical Engineering | Y20   | [vasup20@iitk.ac.in](mailto:vasup20@iitk.ac.in)     |
 | Yashika Malhotra | Aerospace Engineering  | Y20   | [yashika20@iitk.ac.in](mailto:yashika20@iitk.ac.in) |
 
-## Secretaries
+### Secretaries
 
 | Name              | Department                             | Batch | Email                                                     |
 | ----------------- | -------------------------------------- | ----- | --------------------------------------------------------- |
