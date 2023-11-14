@@ -68,3 +68,7 @@ Hence, an observer in the northern hemisphere (like one in [IIT Kanpur](https://
 > Fun Fact
 >
 > If you are at the Geographic Equator of the Earth, the brightest star along the direction of the North [cardinal point](#cardinal-points) on the [horizon](#horizon) will always be the Pole Star.
+
+### Meridian
+
+The [meridian](#meridian) is the circle that passes through the [zenith](#zenith) and the north and south points on the horizon. The [meridian](#meridian) is the line that divides the sky into two hemispheres, the eastern and western hemispheres. The [meridian](#meridian) is also the line that divides the day into two halves, the morning and evening.
