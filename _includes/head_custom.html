@@ -55,3 +55,16 @@
   crossorigin="anonymous"
   referrerpolicy="no-referrer"
 />
+
+<!-- Shortcut to access the search bar -->
+<script>
+  document.addEventListener('keydown', e => {
+    if (e.key === '/') {
+      document.getElementById('search-input').focus()
+    } else if (e.key === 'Escape') {
+      if (document.querySelector('html').classList.contains('search-active')) {
+        document.querySelector('html').classList.remove('search-active')
+      }
+    }
+  })
+</script>
