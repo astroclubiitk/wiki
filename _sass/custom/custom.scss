@@ -22,10 +22,11 @@ div.footer-icons {
   a {
     color: inherit;
     text-decoration: none;
+    transition: 0.2s ease-in-out;
   }
 
   a:hover {
-    color: $link-color;
+    color: lighten($color: $link-color, $amount: 15%);
   }
 
   i {
