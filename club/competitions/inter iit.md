@@ -33,7 +33,7 @@ Hosted in an online mode by IIT Kharagpur, the problem statement of [Tech Meet 1
 1. Developing a statistical/machine learning model to cover the mentioned parameters.
 2. Deploying it efficiently to a stand-alone application and web-based tool (no additional APIs used).
 
-We secured the **third position** in the competition. The solution to this problem statement constructed by the contingent of IIT Kanpur can be found at [astroclubiitk/Inter-IIT-Tech-Meet-2023](https://github.com/astroclubiitk/Inter-IIT-Tech-Meet-2023). Watch the presentation for it on [YouTube](https://youtu.be/NgTuupeuetw?t=10710)
+We secured the **third position** in the competition. The solution to this problem statement constructed by the contingent of IIT Kanpur can be found at [astroclubiitk/Inter-IIT-Tech-Meet-2022](https://github.com/astroclubiitk/Inter-IIT-Tech-Meet-2022). Watch the presentation for it on [YouTube](https://youtu.be/NgTuupeuetw?t=10710)
 
 ![Tech Meet 10.0](../../assets/images/club/competitions/inter%20iit/tech%20meet%2010.png)
 
