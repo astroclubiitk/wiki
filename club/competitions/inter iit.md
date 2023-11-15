@@ -46,7 +46,7 @@ Hosted in an online mode by IIT Guwahati, the problem statement of [Tech Meet 9.
 1. The cleaning and processing of data provided in the forms of catalogs A and B, and the publications. The source names have been resolved using SIMBAD and is accurate upto atleast 2 arcmin. Cited sources have been extracted from the publications using regular expressions, which exploit the astro nomencalture to cature the source names from the title and abstracts.
 2. Use of the available data from one of the thoroughly observed sources to derive meaningful results based on the type of astronomical object being observed.
 
-We secured the **silver medal** in the competition. The solution to this problem statement constructed by the contingent of IIT Kanpur can be found at [astroclubiitk/Inter-IIT-Tech-Meet-2021](https://github.com/astroclubiitk/Inter-IIT-Tech-Meet-2023). Watch the presentation for it on [YouTube](https://www.youtube.com/watch?v=3fqiMNW02xg).
+We secured the **silver medal** in the competition. The solution to this problem statement constructed by the contingent of IIT Kanpur can be found at [astroclubiitk/Inter-IIT-Tech-Meet-2021](https://github.com/astroclubiitk/Inter-IIT-Tech-Meet-2023).
 
 ![Tech Meet 9.0](../../assets/images/club/competitions/inter%20iit/tech%20meet%209.jpg)
 
