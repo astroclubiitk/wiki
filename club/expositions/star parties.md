@@ -31,6 +31,12 @@ To further enhance the experience, the club also brings along a laser pointer to
 >
 > While coming to the [star party](#star-parties), make sure you carry your institute issued health booklet or ID card and are wearing full length trousers and covered shoes.
 
+{: .important-title}
+
+> Important
+>
+> While at a [star party](#star-parties) or any observation session in general, make sure to follow the [etiquettes](../../observation/night%20sky/etiquettes.html)!
+
 A few shots from the [star parties](#star-parties) organized by the club:
 
 ![Star Party 1](../../assets/images/club/expositions/star%20parties/star%20party%201.jpeg)
