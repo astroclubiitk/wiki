@@ -2,7 +2,7 @@
 title: Logos
 layout: default
 parent: Club
-nav_order: 9
+nav_order: 10
 ---
 
 ## Club Logos
