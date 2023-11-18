@@ -68,3 +68,24 @@
     }
   })
 </script>
+
+<script>
+  const redirectFunction = () => {
+    try {
+      fetch('/assets/js/search-data.json')
+        .then(res => res.json())
+        .then(data => {
+          const length = Object.keys(data).length
+          const index = Math.floor(Math.random() * length)
+          const redirectUrl = '/wiki' + data[String(index)].url
+          window.location.href = redirectUrl
+        })
+        .catch(err => {
+          console.error(err)
+          alert('Try again after some time!')
+        })
+    } catch {
+      alert('Enable JS for this webpage on your browser!')
+    }
+  }
+</script>
