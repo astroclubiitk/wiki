@@ -43,3 +43,39 @@
 {% if site.back_to_top_text %}
 <a href="#top">{{ site.back_to_top_text }}</a>
 {% endif %}
+
+<p>Contributors to this page: <span id="contributors"></span></p>
+
+<script>
+  try {
+    const contributors = document.getElementById('contributors')
+    let path = window.location.href.split('/').splice(3).join('/')
+    if (path.endsWith('/')) {
+      path += 'index.md'
+    } else if (path.endsWith('.html')) {
+      path = path.replace('.html', '.md')
+    }
+    if (path == '') {
+      path = 'index.md'
+    }
+    const url = `https://api.github.com/repos/astroclubiitk/wiki/commits?path=${path}`
+    fetch(url)
+      .then(response => response.json())
+      .then(data => {
+        const names = data.map(commit => commit.committer.login)
+        const uniqueNames = [...new Set(names)]
+        const links = uniqueNames.map(
+          name =>
+            `<a href="https://github.com/${name}" target="_blank">${name}</a>`
+        )
+        contributors.innerHTML = links.join(', ')
+      })
+      .catch(err => {
+        console.error(err)
+        contributors.innerHTML = 'Could not fetch contributors!'
+      })
+  } catch (error) {
+    console.error(error)
+    alert('Enable JS for the website on your browser!')
+  }
+</script>
