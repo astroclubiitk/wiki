@@ -1,8 +1,9 @@
 ---
 title: Finances
 layout: default
-parent: Club
-nav_order: 9
+parent: Logistics
+grand_parent: Club
+nav_order: 1
 ---
 
 ## Club Finances
