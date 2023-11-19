@@ -41,4 +41,8 @@ Extending the stars on the tail in the arc, we come to Arcturus of [Bootes](./co
 
 ![Big Dipper Arcturus Spica](../../assets/images/observation/night%20sky/star%20hopping/big%20dipper%20arcturus%20spica.png)
 
+The [Big Dipper](#big-dipper) also points to other important stars. You can follow the two stars across the top of the cup and they lead you to the northernmost bright star, Capella, in the [constellation](./constellations.html) [Auriga](./constellations.html#auriga). If, instead of going up from the front of the cup, you go down from the back of the cup, you end up at the star Regulus in the [constellation](./constellations.html) [Leo](./constellations.html#leo). And if you go across the cup, from the back top to the bottom front, you end up at Castor in [Gemini](./constellations.html#gemini). You can continue that line on until you get to Betelgeuse in [Orion](./constellations.html#orion), the brilliant red star in the west.
+
+![Big Dipper to rest](../../assets/images/observation/night%20sky/star%20hopping/big%20dipper%20to%20rest.png)
+
 Although we've tried to cover the majority of star hopping concepts, if you still want to know even more about star hopping, check out this [playlist](https://www.youtube.com/playlist?list=PLN3BUNsrLypdzE30-ku_aIYtEYVFo4dBq) on YouTube.
