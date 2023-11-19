@@ -92,6 +92,12 @@ Auriga is a constellation located in the northern sky, representing a charioteer
 
 ![Auriga](../../assets/images/observation/night%20sky/constellations/auriga.png)
 
+### Bootes
+
+Bootes, located in the northern celestial hemisphere, is a constellation prominent in the spring and early summer skies. It represents a herdsman or a plowman in Greek mythology. The brightest star in Bootes is Arcturus, one of the brightest stars in the sky and often described as a golden-hued, red giant. The constellation is recognizable for its kite or ice cream cone shape, with Arcturus marking the herdsman's left foot. In Greek mythology, Bootes is associated with various figures, including Arcas or Icarius, connected to the legends of bears and winemaking. Bootes is notable for containing galaxies such as the Bootes Void, a region with few galaxies, making it an intriguing area for astronomical study. Visible from both the northern and southern hemispheres, Bootes stands out as a distinctive constellation in the night sky.
+
+![Bootes](../../assets/images/observation/night%20sky/constellations/bootes.png)
+
 ### Canis Major
 
 Canis Major is a prominent constellation in the southern celestial hemisphere, representing a large dog in Greek mythology. It is best known for its brightest star, Sirius, which is also the brightest star in the night sky. Often referred to as the "Dog Star," Sirius is easily visible and dominates the constellation. Canis Major is depicted as a dog following Orion, the hunter, across the night sky. Besides Sirius, there are several other notable stars in this constellation, including Adhara and Wezen. In various cultures, Canis Major has been associated with themes of loyalty, companionship, and vigilance. It is a conspicuous feature in the winter skies of the southern hemisphere and is also visible from most of the northern hemisphere during winter months.
