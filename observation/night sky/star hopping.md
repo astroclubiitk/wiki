@@ -45,4 +45,18 @@ The [Big Dipper](#big-dipper) also points to other important stars. You can foll
 
 ![Big Dipper to rest](../../assets/images/observation/night%20sky/star%20hopping/big%20dipper%20to%20rest.png)
 
+### Orion
+
+Coming to the possibly one of the most recognizable [constellation](./constellations.html) in the [night sky](../night%20sky/), [Orion](./constellations.html#orion), we can use it to find other stars and [constellations](./constellations.html).
+
+The three stars of [Orion](#orion)'s belt point to the bright orange star Aldebaran in [Taurus](./constellations.html#taurus), the Bull by extending the line 22 degrees in the north-west direction.
+
+Extending the line further by around 14 degrees, we reach the Pleiades ([Messeir](./deep%20sky%20objects.html#messier-objects) 45), a beautiful cluster of stars in [Taurus](./constellations.html#taurus).
+
+The three stars of [Orion](#orion)'s belt also point to Sirius, the brightest star in the [night sky](../night%20sky/), in [Canis Major](./constellations.html#canis-major), the Great Dog, around 20 degrees south-east of the belt.
+
+The three stars, Sirius, Betelgeuse and Procyon (in the constellation of Canis Minor, the Lesser Dog), form an asterism known as the Winter Triangle, which is almost equilateral.
+
+![Orion](../../assets/images/observation/night%20sky/star%20hopping/orion.png)
+
 Although we've tried to cover the majority of star hopping concepts, if you still want to know even more about star hopping, check out this [playlist](https://www.youtube.com/playlist?list=PLN3BUNsrLypdzE30-ku_aIYtEYVFo4dBq) on YouTube.
