@@ -1,9 +1,9 @@
 ---
-title: Star Maps
+title: Star Hopping
 layout: default
 parent: Night Sky
 grand_parent: Observation
-nav_order: 6
+nav_order: 7
 ---
 
-## Star Maps
+## Star Hopping

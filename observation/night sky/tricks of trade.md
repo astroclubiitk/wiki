@@ -3,7 +3,7 @@ title: Tricks of Trade
 layout: default
 parent: Night Sky
 grand_parent: Observation
-nav_order: 10
+nav_order: 11
 ---
 
 ## Tricks of Trade
@@ -31,4 +31,4 @@ The technique of [averted vision](#averted-vision) is based on this concept. In 
 
 ### Star Hopping
 
-[Star hopping](#star-hopping) is a technique to locate faint objects which are not visible to the naked eye. It uses bright stars as a guide to locate fainter objects. A known star is first tracked in the finder scope, and then the scope is moved so as to follow a known pattern of stars in the sky till the object is reached. Once the target object is reached, higher magnifications can be used for observation.
+[Star hopping](./star%20hopping.html) is a technique to locate faint objects which are not visible to the naked eye. It uses bright stars as a guide to locate fainter objects. A known star is first tracked in the finder scope, and then the scope is moved so as to follow a known pattern of stars in the sky till the object is reached. Once the target object is reached, higher magnifications can be used for observation.

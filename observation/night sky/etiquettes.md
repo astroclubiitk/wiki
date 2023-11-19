@@ -3,7 +3,7 @@ title: Etiquettes
 layout: default
 parent: Night Sky
 grand_parent: Observation
-nav_order: 8
+nav_order: 9
 ---
 
 ## Etiquettes

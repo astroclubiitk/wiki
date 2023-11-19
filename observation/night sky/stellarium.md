@@ -3,7 +3,7 @@ title: Stellarium
 layout: default
 parent: Night Sky
 grand_parent: Observation
-nav_order: 7
+nav_order: 8
 ---
 
 ## Stellarium
