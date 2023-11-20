@@ -110,11 +110,11 @@ Cassiopeia is a distinctive "W" or "M" shaped constellation located in the north
 
 ![Cassiopeia](../../assets/images/observation/night%20sky/constellations/cassiopeia.png)
 
-### Cephus
+### Cepheus
 
 Cepheus is a constellation in the northern celestial hemisphere, named after the King of Aethiopia in Greek mythology. It is often depicted as a monarch holding a scepter and wearing a crown. Notable stars in Cepheus include Alderamin and Errai, which mark the king's head and heart, respectively. Cepheus is part of a group of constellations known as the Perseus family, which includes Andromeda, Cassiopeia, and Perseus himself. The constellation is rich in deep-sky objects, such as the Garnet Star (Mu Cephei), one of the largest known stars in the Milky Way. Cepheus is visible in the northern hemisphere and is particularly prominent during the autumn months.
 
-![Cephus](../../assets/images/observation/night%20sky/constellations/cephus.png)
+![Cepheus](../../assets/images/observation/night%20sky/constellations/cepheus.png)
 
 ### Cygnus
 
