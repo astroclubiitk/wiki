@@ -132,21 +132,3 @@ The evidence that [the law of periods](#the-law-of-periods) is indeed correct ca
 ### Applications
 
 [Keplar's Laws of Planetary Motion](#keplars-laws-of-planetary-motion) have widespread applications in astrophysics and [celestial mechanics](../celestial%20mechanics). Not only for planetary motion, these laws can be used in any two body system with one object revolving around the other, for example, a satellite revolving around the Earth. In that case, the point where the satellite is closest to Earth is called **perigee** and the point where the satellite is farthest from Earth is called **apogee**.
-
-<!-- The orbit of a planet is an ellipse with the Sun at one of the two foci. The eccentricity of the ellipse is given by:
-
-$$e = \frac{c}{a}$$
-
-where $e$ is the eccentricity, $c$ is the distance from the center of the ellipse to the focus, and $a$ is the semi-major axis of the ellipse. The eccentricity of a circle is 0, and the eccentricity of a parabola is 1. The eccentricity of an ellipse is between 0 and 1. The eccentricity of a planet's orbit is a measure of how circular the orbit is. The more circular the orbit, the smaller the eccentricity, and vice versa.
-
-### Second Law
-
-A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time. This means that a planet moves faster when it is closer to the Sun, and slower when it is farther away from the Sun. This is because the planet has to cover more distance when it is farther away from the Sun, and less distance when it is closer to the Sun, in order to sweep out the same area.
-
-### Third Law
-
-The square of the orbital period of a planet is directly proportional to the cube of the semi-major axis of its orbit. This means that the farther a planet is from the Sun, the longer it takes to complete one orbit around the Sun. The equation for this law is as follows:
-
-$$T^2 = \frac{4\pi^2}{GM}a^3$$
-
-where $T$ is the orbital period of the planet, $G$ is the gravitational constant, $M$ is the mass of the Sun, and $a$ is the semi-major axis of the planet's orbit. The orbital period of a planet is measured in years, and the semi-major axis of a planet's orbit is measured in astronomical units (AU). One astronomical unit is equal to the average distance between the Earth and the Sun, which is approximately 150 million kilometers. -->
