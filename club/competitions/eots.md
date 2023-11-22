@@ -15,7 +15,7 @@ A freshers exclusive competition, [Eyes on the Skies](#eyes-on-the-skies) (EOTS)
 
 An exciting domain of astronomy, [astrophotography](../../astrophotography/) is probably one of the, if not the most loved and represented domains of astronomy. And it what would inspire young astronomers as well as an [astrophotography](#astrophotography) challenge?
 
-The beauty of this competition? You don't need a DSLR or a fancy camera to take amazing shots of the cosmos! A conventional smartphone is more than enough! You can capture jaw-dropping [star trails](../../astrophotography/star%20trails) and [lunar shots](../../astrophotography/moon.md) using an ordinary smartphone camera. Just tweak the settings of your phone's camera in the pro-mode, remeber them and fire away.
+The beauty of this competition? You don't need a DSLR or a fancy camera to take amazing shots of the cosmos! A conventional smartphone is more than enough! You can capture jaw-dropping [star trails](../../astrophotography/star%20trails) and [lunar shots](../../astrophotography/moon.html) using an ordinary smartphone camera. Just tweak the settings of your phone's camera in the pro-mode, remeber them and fire away.
 
 {: .fun }
 

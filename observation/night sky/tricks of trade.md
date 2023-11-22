@@ -23,7 +23,7 @@ The technique of [averted vision](#averted-vision) is based on this concept. In 
 
 {: .fun }
 
-> In the [eyepiece](../instruments/eyepieces.md) of a [telescope](../instruments/telescopes.md), averted vision is easy to use. If you use your right eye, stare to the right edge of the [eyepiece](../instruments/eyepieces.md) (assuming the object is in the center of the field) and if you use your left eye, stare to the left edge. But be aware of the center of the field of view.
+> In the [eyepiece](../instruments/eyepieces.html) of a [telescope](../instruments/telescopes.html), averted vision is easy to use. If you use your right eye, stare to the right edge of the [eyepiece](../instruments/eyepieces.html) (assuming the object is in the center of the field) and if you use your left eye, stare to the left edge. But be aware of the center of the field of view.
 >
 > Averted vision can greatly improve views of objects. It can make globular clusters easier to resolve, show spiral structure in spiral galaxies etc.
 

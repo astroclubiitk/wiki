@@ -704,7 +704,7 @@ The intersection of these two planes is a line, called the **node line**. This l
 1. The **dedscending node**: The point when the spacecraft goes from above to below the reference plane
 2. The **ascending node**: The point when the spacecraft goes from below to above the reference plane
 
-The [right ascension of the ascending node](#right-ascension-of-the-ascending-node-omega) (RAAN) is defined as the [right ascension](../../observation/celestial%20sphere/equatorial.md#right-ascention) of the point where the spacecraft goes from below the reference plane to above it.
+The [right ascension of the ascending node](#right-ascension-of-the-ascending-node-omega) (RAAN) is defined as the [right ascension](../../observation/celestial%20sphere/equatorial.html#right-ascention) of the point where the spacecraft goes from below the reference plane to above it.
 
 The [right ascension of the ascending node](#right-ascension-of-the-ascending-node-omega) can range from 0 to 360 degrees, inclusive.
 

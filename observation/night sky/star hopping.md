@@ -31,7 +31,7 @@ Assuming you know the latitude you're at, you can use [Polaris](#polaris) to fin
 
 ### Royal Family
 
-The [royal family](#royal-family) consists of King [Cepheus](./constellations.md#cepheus), his wife, [Cassiopeia](./constellations.md#cassiopeia), their daughter, [Andromeda](./constellations.md#andromeda) and her husband, [Perseus](./constellations.md#perseus).
+The [royal family](#royal-family) consists of King [Cepheus](./constellations.html#cepheus), his wife, [Cassiopeia](./constellations.html#cassiopeia), their daughter, [Andromeda](./constellations.html#andromeda) and her husband, [Perseus](./constellations.html#perseus).
 
 [Cassiopeia](./constellations.html#cassiopeia) is quite easily recognizable in the [night sky](../night%20sky/). It is a [constellation](./constellations.html) that looks like a '**W**' or an '**M**' depending on the time of the year. It is visible all year round in the Northern Hemisphere. The angular bisector of the '**W**' points to the North Celestial [Pole](../celestial%20sphere/equatorial.html#poles), where you can find [Polaris](#polaris).
 
