@@ -49,7 +49,7 @@
 <script>
   try {
     const contributors = document.getElementById('contributors')
-    let path = window.location.href.split('/').splice(4).join('/')
+    let path = window.location.href.split('#')[0].split('/').splice(4).join('/')
     if (path.endsWith('/')) {
       path += 'index.md'
     } else if (path.endsWith('.html')) {
