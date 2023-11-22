@@ -1104,4 +1104,4 @@ If there is no periapsis, as in a circular orbit, then $$\varPi$$ and $$\omega$$
 
 > To get a better feel of what these [orbital elements](#keplerian-orbital-elements) do and changing what changes what exactly in the orbit, you can try converting these [orbital elements](#keplerian-orbital-elements) into ground based longitudes and latitudes.
 >
-> In fact, that is exactly what has been done at [Orbit Simulator](https://shastra-cic.vercel.app) by [@Jadit19](https://github.com/Jadit19).
+> In fact, that is exactly what has been done at [Satellite Orbit Simulator](https://satellite-orbit-simulator.vercel.app) by [@Jadit19](https://github.com/Jadit19), [@VasuP36](https://github.com/VasuP36) and [@Rajarshi1001](https://github.com/Rajarshi1001).
