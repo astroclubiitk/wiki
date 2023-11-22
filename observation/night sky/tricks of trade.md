@@ -21,10 +21,8 @@ Light-sensitive cells in the eye are not distributed uniformly throughout the re
 
 The technique of [averted vision](#averted-vision) is based on this concept. In summary, it is "stare away from the object to see it better". People who predominantly use the right-eye, must look towards the right of the actual position of the object, but be aware of the actual position of the object. People who use the left-eye, must look towards the left of the actual position of the object, but be aware of the actual position of the object. This will greatly enhance what you can see. Practice using [averted vision](#averted-vision) is what differentiates a first-time observer from a seasoned observer. Mastery over [averted vision](#averted-vision) is important to be able to pick out faint detail in objects.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > In the [eyepiece](../instruments/eyepieces.md) of a [telescope](../instruments/telescopes.md), averted vision is easy to use. If you use your right eye, stare to the right edge of the [eyepiece](../instruments/eyepieces.md) (assuming the object is in the center of the field) and if you use your left eye, stare to the left edge. But be aware of the center of the field of view.
 >
 > Averted vision can greatly improve views of objects. It can make globular clusters easier to resolve, show spiral structure in spiral galaxies etc.

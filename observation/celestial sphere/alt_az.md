@@ -33,20 +33,16 @@ The horizon is the circle that separates the visible sky from the invisible sky.
 
 Opposite to [Nadir](#nadir), Zenith is the direction pointing directly _above_ a particular location, orthogonal to the flat surface, i.e., the Earth's local tangential plane. Alternatively, its direction can be taken as anti-parallel to the local gravity vector. Its altitude is 90 degrees with an undefined azimuth.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > If you are at the Geographic North Pole of the Earth, the brightest star near the Zenith will always be the Pole Star.
 
 ### Nadir
 
 Opposite to [Zenith](#zenith), Nadir is the direction pointing directly _below_ a particular location, orthogonal to the flat surface, i.e., the Earth's local tangential place. Alternatively, its direction can be taken as parallel to the local gravity vector. Its altitude is -90 degrees with an undefined azimuth.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > If you are at the Geographic South Pole of the Earth, the brightest star near the Nadir (not that you'll be able to see it though) will always be the Pole Star.
 
 ### Cardinal Points
@@ -63,10 +59,8 @@ Hence, an observer in the northern hemisphere (like one in [IIT Kanpur](https://
 - 0° and 180°, the object is rising
 - 180° and 360°, the object is setting
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > If you are at the Geographic Equator of the Earth, the brightest star along the direction of the North [cardinal point](#cardinal-points) on the [horizon](#horizon) will always be the Pole Star.
 
 ### Meridian

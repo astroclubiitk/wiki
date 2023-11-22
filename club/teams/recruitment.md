@@ -25,16 +25,12 @@ As a [secretary](#secretary) of Astronomy Club, IIT Kanpur, you will be responsi
 
 The recruitment for the post of [secretary](#secretary) of Astronomy Club, IIT Kanpur usually happens during May-June with a form released by the General Secretary of the Science and Technology Council. Students interested should fill the form ASAP. The interested students are then giving a set of tasks against which they'll be evaluated. Shortlisted students will then be called to the clubroom for a brief interview of 10 to 15 minutes. Results will be announced shortly after that. On an average, there are 25 [secretaries](#secretary) selected per tenure.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > You don't need to be a [summer project](../projects/semester.html) mentee in order to be eligible to be a secretary. Just a lot of enthusiasm for Astronomy and willingness to learn and grow is required to be eligible to be a secretary.
 
-{: .highlight-title }
+{: .note }
 
-> Note
->
 > If you're **not** selected to become a [secretary](#secretary), don't be disheartened! You can still be a part of the core team of the club unofficially and if the then [coordinators](#coordinator) see fit and are impressed by your dedication and quality of work, you can be ratified as a [secretary](#secretary).
 
 ### Coordinator

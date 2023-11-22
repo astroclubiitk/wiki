@@ -13,10 +13,8 @@ Yes, gravity has been defined by multiple people, multiple times. One of them, t
 
 With deceptive simplicity, the law is stated as follows:
 
-{: .note-title }
+{: .quote }
 
-> Quote
->
 > "Every particle of matter in the universe attracts every other particle of matter with a force directly proportional to the product of the masses and inversely proportional to the square of distance between them."
 
 Mathematically, it can be stated as:

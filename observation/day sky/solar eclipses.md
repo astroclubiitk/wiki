@@ -13,18 +13,14 @@ If you've completed your 10-th class, you must be knowing that solar eclipses oc
 
 ![Solar Eclipse](../../assets/images/observation/day%20sky/solar%20eclipses/diagram.png)
 
-{: .warning-title }
+{: .warning }
 
-> Warning
->
 > While observing a solar eclipse, **NEVER** look at it directly! If you're doing naked eye observation, make sure you have a protective solar glass over your eyes. If you're using a telescope, make sure you have a solar filter in place, even for normal solar observations.
 
 A [solar eclipse](#solar-eclipses) occurs roughly every six months, on a new Moon. This is because the plane of revolution of the Moon around Earth is tilted at roughly 5 degrees from the plane of revolution of the Earth around the Sun.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > Had the Moon been in a perfectly circular orbit and in the same orbital plane as Earth, there would be a [total solar eclipse](#total-solar-eclipse) every month on a new Moon.
 
 ### Total Solar Eclipse

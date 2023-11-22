@@ -23,26 +23,20 @@ Here are a few things to keep in mind when taking star trails:
 6. If possible, capture the RAW image as well. This will give you more flexibility when editing the image. This will require you to have a lot of storage space, so make sure you have enough space on your memory card.
 7. Capture for as long as possible. If you can, aim to shoot from sunrise to sunset. This will give you the best results. If you can't, try to shoot for at least 2 hours. This will give you a decent star trail photograph.
 
-{: .warning-title }
+{: .warning }
 
-> Warning
->
 > Make sure wherever you place your camera, it remains stable for the duration of the shoot. Even a slight perturbation from the original position can ruin the entire shot.
 
 Once you've got everything setup, take a few demo shots to figure out the right settings like [ISO](../instruments/mobile.html#iso), [aperture](../instruments/mobile.html#aperture), and [shutter speed](../instruments/mobile.html#shutter-speed). Post this, you'll be ready to have your patience tested. Start the intervalometer and wait for the magic to happen.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > If you capture star trails during the peak of a meteor shower like the Orionids or Perseids, there is a very high chance, you might see multiple streaks of straight lines dividing your image. These will most probably be the streak of a meteor showering from the sky!
 >
 > In the worst case scenario, you might have caught a satellite zipping past your sky.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > Sometimes, you might capture random bright dots in your image, If your sensor is decent enough, there's a high chance that those seemingly random dots are not due to sensor issues, but rather, geostationary satellites!
 
 Post [stacking](./stacking.html) all the images you've captured, you'll have a beautiful star trail photograph. A few examples of them, captured by the club members, are shown below:

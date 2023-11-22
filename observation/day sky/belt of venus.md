@@ -19,10 +19,8 @@ It can be visibly seen in this amazing shot of the Turkish National Observatory 
 
 ![Belt of Venus from the Turkey National Observatory](../../assets/images/observation/day%20sky/belt%20of%20venus/turkish%20observatory.png)
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > Although visible at both sunrise and sunset, the best time to see the [Belt of Venus](#belt-of-venus) is during the sunset, looking east, away from the setting sun in the west.
 >
 > This is primarily because students won't be awake at 5 in the morning on a usual day unless they have an 8 AM semester examination, in which case, they won't be leaving the library before 7 AM.

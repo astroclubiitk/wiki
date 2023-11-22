@@ -58,10 +58,8 @@ Some of the brightest stars have a proper name, which you can use interchangeabl
 <br />
 The following are some of the commonly known constellations and asterisms visible from the sky of Kanpur (some all year round), with a screenshot of each captured in [Stellarium](./stellarium.html), arranged in alphabetical order (also read about the [mythical lores](./lores.html) about them):
 
-{: .warning-title }
+{: .warning }
 
-> Warning
->
 > Now that you've scrolled till here, **BEWARE!**
 >
 > If you plan on applying to become a secretary, you must be familiar with these. If you plan on applying to become a coordinator of the Astronomy Club of IIT Kanpur, you should know these by heart. If you don't, Tarish'll come for your soul.

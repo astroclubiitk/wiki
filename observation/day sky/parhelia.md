@@ -17,8 +17,6 @@ An astounding shot of [Parhelia](#parhelia) was captured by Claudia Hinz, in Cze
 
 ![Parhelia Image](../../assets/images/observation/day%20sky/parahelia/parahelia.jpeg)
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > A similar phenomenon can be seen around the Moon, known as paraselenae. Analogus to mock suns, they're known as mock moons. These are also caused by the refraction of light through ice crystals, but are much rarer than [parhelia](#parhelia).

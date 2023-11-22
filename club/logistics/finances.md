@@ -13,10 +13,8 @@ The club is financed by the Science and Technology Council, which in turn gets i
 
 When purchasing anything for the club, try to buy items that cost less than INR 25,000. First and foremost, get the [Pre-Approval](../../assets/docs/club/logistics/finances/Pre-Approval%20Form.pdf) form signed by the General Secretary of the SnT Council. You can acquire inventory using either of the two ways mentioned below:
 
-{: .important-title}
+{: .important}
 
-> Important
->
 > When you purchase something for the club, make sure you get the GST invoice(s). This is necessary for both [advance](#advances) clearance and [reimbursement](#reimbursments).
 
 ### Advances

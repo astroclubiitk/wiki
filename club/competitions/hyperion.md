@@ -17,10 +17,8 @@ It is a unique opportunity for the students to test their basic knowledge and ge
 
 From Dark Matter density calcaulation to Gravitational waves from black hole mergers, we try to cover the hottest topics in the fields of Astronomy and Astrophysics and apply concepts of Physics, Mathematics, and Computer Science to solve the problems, often with the help of data analysis.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > Prizes woth INR 5,000 are up for grabs for podium finishers!
 
 ### Hyperion 2021

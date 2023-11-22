@@ -15,8 +15,6 @@ Unfortunately, these [bulla](#bulla) sessions of the club are reserved _exclusiv
 
 During a normal [bulla](#bulla) session at the clubroom, the mattresses inside the [planetarium](../inventory/planetarium.html) are pulled out and spread out on the roof of the Senate Hall. With conversations ranging about day-to-day activities to _literally anything_, it is a given that one enjoys a ton! Sometimes, the sessions can last till day-break, in which case if the following day is a day off, we just switch on the [air conditioner](../inventory/ac.html) and sleep until it's time for lunch.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > Some of the wildest endaevours and amazing initiatives have come as a result of these [bulla](#bulla) sessions. So, they're not totally pointless and do serve a higher purpose. Or that's how we convey their importance to people and convice ourselves in the process.

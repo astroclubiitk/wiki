@@ -13,10 +13,8 @@ At the intersection of cosmic wonders and literary brilliance lies "[Cygnus](#cy
 
 For the last couple of years, [Cygnus](#cygnus-magazine) has been the stellar manifestation of the club's passion for the skies above. Named after the Cygnus constellation, the celestial swan soaring amidst the cosmic canvas, the magazine mirrors the elegance and grace of its namesake through its captivating content. It contains a collection of articles, poems, and artworks, all of which are inspired by the cosmos, a testament to the club's commitment to the stars and the universe.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > The original idea for a club magazine was pitched way back in 2001, names Cygnus X-1 at the time, but it was only in 2021 that the first issue of [Cygnus](#cygnus-magazine) was published.
 
 The magazine's pages are an astronomical mosaic, capturing the grandeur of celestial events, unraveling the mysteries of cosmic phenomena, and shedding light on the latest astronomical discoveries. Articles penned by the students delve into the depths of black holes, trace the trajectories of comets, and explore the cultural significance of constellations across civilizations.

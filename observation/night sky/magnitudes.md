@@ -53,10 +53,8 @@ Note that the flux referred to here is generally known as intensity in physics, 
 | Andromeda (M31)    | +3.44              |
 | Orion Nebula (M42) | +4                 |
 
-{: .new-title }
+{: .fun }
 
-> Fun Facts
->
 > Objects with apparent magnitude less than
 >
 > - -4 are visibile when the Sun is high, and can cast shadows at night

@@ -21,10 +21,8 @@ In order to know what is what, astronomers have come up with catalogues, "catalo
 
 Initially containing only 45 [DSOs](#deep-sky-objects), the yet unnumbered [Messier Catalogue](#messier-objects) was made by the French Astronomer, Charles Messier in 1774. Most of the objects were visible from the northern hemisphere, owing to Messier's place of origin and observation. Subsequently, the list was expanded and numbered by various astronomers and now included 110 objects.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > Charles Messier initially wanted to hunt down coments. But due to the relatively rare occurence of comets visible from the naked eye and the abundancec of DSOs, the frustrated Messier created a list of objects that were causing a problem for his hunt of comets.
 
 A list of the most famous Messier Objects, their number and the constellation in which they're found is given below:

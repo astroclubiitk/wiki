@@ -11,10 +11,8 @@ nav_order: 1
 <br />
 The club has opened a digital portal to the cosmos through its regular [blog](#blog) series, an online constellation of astronomical knowledge which can be accessed [here](/blogs). These [blogs](#blogs), diligently crafted by club members and guest contributors, serve as captivating celestial narratives that bring the wonders of the universe to readers' fingertips.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > [Blogs](#blogs) were first introduced in 2020, something that was long overdue and was incorporated as a part of the club's website revamp.
 >
 > The first [blog](#blogs) was published on September 2, 2020 on [Black Hole Information Paradox](/2020-09-02-blackhole-paradox/)

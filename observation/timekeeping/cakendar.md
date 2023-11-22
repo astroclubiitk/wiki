@@ -28,10 +28,8 @@ There are two different kinds of years in the [Julian calendar](#julian-calendar
 
 Used in most parts of the world, the [Gregorian calendar](#gregorian-calendar) (named after the then Pope, Pope Gregory XIII) came into effect in October 1582, as a modification of, and replacement for the [Julian calendar](#julian-calendar). The major change was the definition of leap years. The rule now became:
 
-{: .note-title }
+{: .quote }
 
-> Quote
->
 > "Every year that is exactly divisible by four is a leap year, except for years that are exactly divisible by 100, but these centurial years are leap years if they are exactly divisible by 400. For example, the years 1700, 1800, and 1900 are not leap years, but the year 2000 is."
 
 Since the [Julian Calendar](#julian-calendar) incorrectly assumed that the average solar year is 365.25 days long, an overestimate of little under one day per century, and thus has a leap year every 4 years without exception. The Gregorian reform shortened the average (calendar) year by 0.0075 days to stop the drift of the calendar with respect to the [equinoxes](../celestial%20sphere/equatorial.html#equinoxes).

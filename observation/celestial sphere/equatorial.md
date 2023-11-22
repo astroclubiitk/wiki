@@ -23,40 +23,32 @@ Usually denoted by $$\alpha$$, the [right ascension](#right-ascension) (abbrevia
 
 Usually denoted by $$\delta$$, the [declination](#declination) (abbreviated DEC) is similar to the latitude on Earth. It is measured in degrees, minutes and seconds. The [declination](#declination) is measured from the [celestial equator](#equator) and increases northward. It ranges from -90 to +90 degrees.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > If you're at the geographic north pole of the earth, your coordinates will be 90 degree North. Your longitude is not defined and consequently doesn't matter. Similarly, the pole star has a [declination](#declination) of 90 degrees and an undefined [right ascension](#right-ascension).
 
 ### Vernal Equinox
 
 Usually denoted by $$\gamma$$, the [vernal equinox](#vernal-equinox) is the point on the [celestial equator](#equator) where the Sun crosses from the southern to the northern hemisphere. It is the point where the Sun is directly above the Earth's equator. In the northern hemisphere, it is known as the March equinox and marks the beginning of spring. It is also the time when days start becoming longer than nights.
 
-{: .warning-title }
+{: .warning }
 
-> Warning
->
 > If you're starting thinking about your even-semester end semester examinations, there is a good chance that the [vernal equinox](#vernal-equinox) has already passed.
 
 ### Equator
 
 Imagine the Earth's equator projected onto the sky. This is the [celestial equator](#equator). It is the line that divides the sky into two hemispheres, the northern and southern hemispheres. The distance around the [celestial equator](#equator) is equal to 24 hours.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > The declination of the equator is 0 degrees, 0 minutes, 0 seconds.
 
 ### Poles
 
 Similarly, projecting the North and South geographic [poles](#poles) onto the sky give us the celestial North and South [pole](#poles).
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > If you're at the geographic north / south [pole](#poles), the celestial north / south [pole](#poles) will always appear at [zenith](./alt_az.html#zenith).
 
 ### Precession
@@ -65,8 +57,6 @@ Earth's axis is not fixed in space; instead, it undergoes a circular motion over
 
 [Precession](#precession) has observable effects on astronomical phenomena. For instance, it influences the [right ascension](#right-ascension) and [declination](#declination) of any given object and changes them slowly over time, including the position of the celestial [poles](#poles) and the [equator](#equator) and also affecting the locations of stars in the sky over long periods.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > [Precession](#precession) is the reason that the pole star is not actually smack dab at the north celestial [pole](#poles). It is also the reason that Vega will be at the north celestial [pole](#poles) and considered the pole star around the year 13,727 i.e. 11-12 thousand years from now.

@@ -22,16 +22,17 @@ kramdown:
 
 callouts_level: quiet # or loud
 callouts:
-  highlight:
+  note:
+    title: Note
     color: yellow
   important:
     title: Important
     color: blue
-  new:
-    title: New
+  fun:
+    title: Fun Fact
     color: green
-  note:
-    title: Note
+  quote:
+    title: Quote
     color: purple
   warning:
     title: Warning

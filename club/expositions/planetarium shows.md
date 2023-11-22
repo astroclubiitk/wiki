@@ -17,10 +17,8 @@ If you're a faculty reading this and would like to plan a visit to the planetari
 
 [Email Us!](mailto:astroclub@iitk.ac.in){: .btn }
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > Not just for [planetarium shows](#planetarium-shows), the [planetarium](../inventory/planetarium.html) can also be used to (and is used to :) stream movies, matches or even play games, a perk that comes with becoming a [secretary](../teams/recruitment.html#secretary) or a [coordinator](../teams/recruitment.html#coordinator) of Astronomy Club, IIT Kanpur!
 
 A few security guidelines to keep in mind:

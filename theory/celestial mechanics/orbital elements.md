@@ -18,16 +18,12 @@ The set of six independant constants which define an orbit are called the Kepler
 - $$\omega$$: Argument of periapsis is the angle from the ascending node to the periapsis point, measured along the orbit in the direction of the satellite's motion
 - $$\Theta$$: True anomaly gives the location of the satellite on the orbit
 
-{: .highlight-title }
+{: .note }
 
-> Note
->
 > The choice of six elements is not unique
 
-{: .important-title}
+{: .important}
 
-> Important
->
 > For running the codes on this page, you'll need the latest version of python installed on your system along with the required libraries which can be installed using the following command:
 >
 > ```bash
@@ -1104,10 +1100,8 @@ If there is no periapsis, as in a circular orbit, then $$\varPi$$ and $$\omega$$
 
 ### True Anomaly ($$\Theta$$)
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > To get a better feel of what these [orbital elements](#keplerian-orbital-elements) do and changing what changes what exactly in the orbit, you can try converting these [orbital elements](#keplerian-orbital-elements) into ground based longitudes and latitudes.
 >
 > In fact, that is exactly what has been done at [Orbit Simulator](https://shastra-cic.vercel.app) by [@Jadit19](https://github.com/Jadit19).

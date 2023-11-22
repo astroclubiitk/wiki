@@ -27,10 +27,8 @@ The length of a [sidereal day](#sidereal-day) is roughly 23 hours, 56 minutes an
 
 A [solar day](#solar-day) is slightly longer than a [sidereal day](#sidereal-day). This is because Earth not only rotates on its axis, but also revolves around the Sun. This means that the Earth has to rotate a little more than one full rotation to return to the same position relative to the Sun, since the Sun wouldn't have returned to the same position relative to the observer at Earth yet. To complete a [solar day](#solar-day), Earth must rotate an additional amount, equal to $$1/365$$ of a full turn. The time required for this extra rotation is roughly $$1/365$$ of a [sidereal day](#sidereal-day), which is roughly 4 minutes.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > Since most of the ordinary clocks are set to the [solar day](#solar-day), stars rise 4 minutes earlier each day.
 >
 > This is also the reason why the Sun appears to move eastward relative to the stars.

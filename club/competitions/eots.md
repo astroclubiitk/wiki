@@ -17,16 +17,12 @@ An exciting domain of astronomy, [astrophotography](../../astrophotography/) is 
 
 The beauty of this competition? You don't need a DSLR or a fancy camera to take amazing shots of the cosmos! A conventional smartphone is more than enough! You can capture jaw-dropping [star trails](../../astrophotography/star%20trails) and [lunar shots](../../astrophotography/moon.md) using an ordinary smartphone camera. Just tweak the settings of your phone's camera in the pro-mode, remeber them and fire away.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > You can also get a chance to get your shot be published in [Cygnus](../publications/cygnus.html) if you perform well!
 
-{: .highlight-title }
+{: .note }
 
-> Note
->
 > The photographs you submit must be clicked by you. You will also be required to submit the location and settings at which you captured the shot. The penalty of disqualification is awarded to the participant if the shot is found to be plagarized.
 
 ### Astro-Riddles

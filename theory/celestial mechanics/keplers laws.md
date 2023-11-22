@@ -13,10 +13,8 @@ Born in 1571, Johannes Kepler was a German mathematician, astronomer, and astrol
 
 ### The Law of Orbits
 
-{: .note-title }
+{: .quote }
 
-> Quote
->
 > "All the planets revolve around the sun in elliptical orbits having the sun at one of the focii."
 
 The point at which the planet is close to the sun is known as **perihelion**, and the point at which the planet is farthest from the sun is known as **aphelion**. The eccentricity of the ellipse is given by:
@@ -40,10 +38,8 @@ The eccentricity of a perfect circle is 0 whereas the eccentricity of a parabola
 
 ### The Law of Equal Areas
 
-{: .note-title }
+{: .quote }
 
-> Quote
->
 > "A radius vector joining any planet to the Sun sweeps out equal areas in equal lengths of time."
 
 Planets don't move with equal speeds along their orbits. Rather, their speed varies so that the line the line joining the centres of the Sun and the planet sweeps out equal parts of an area in equal times.
@@ -85,10 +81,8 @@ A corollary of [the law of equal areas](#the-law-of-equal-areas), or Kepler's se
 
 ### The Law of Periods
 
-{: .note-title }
+{: .quote }
 
-> Quote
->
 > "The squares of [sidereal periods](../../observation/timekeeping/day.html#sidereal-day) (of revolution) of the planets are directly proportional to the cubes of their mean distances from the Sun."
 
 This means that the farther a planet is from the Sun, the longer it takes to complete a single orbit around the Sun. Mathematically, it can be expressed as:

@@ -19,10 +19,8 @@ Each year, it is conducted during first or second week of August in the New Stud
 
 Astronomy Club, as always, never misses an opportunity to show its prowess. Via the [pavilion](#snt-pavilion), the club aims to instill a sense of wonder and curiosity in the freshers, and to encourage them to join the club and explore the wonders of the heavens above. Various projects and activities are showcased, and the freshers are encouraged to participate in them.
 
-{: .new-title }
+{: .fun }
 
-> Fun Fact
->
 > For freshers who want to dive deeper into the world of astronomy, the club conducts an [introductory lecture](./intro%20lecture.html) covering extensively the basics of astronomy, and the various activities and projects that the club undertakes.
 
 A few shots from the [pavilion](#snt-pavilion) over the years are shown below:

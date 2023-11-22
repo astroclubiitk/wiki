@@ -13,7 +13,7 @@ What kind of Astronomy Club would we be if we didn't engage in one of the most f
 
 One of the most awaited events of the year, the club tries to organize star parties every semester, usually just after the mid semester examinations but just before the mid semester break, preferably on a moonless night. Open to all, including professors and their families, institute workers and of course the campus junta, they're a great way to get to know the night sky and the club members.
 
-{: .new-title }
+{: .fun }
 
 > Fun Fact
 >
@@ -25,16 +25,12 @@ Conducted entirely by the club [secretaries](../teams/recruitment.html#secretary
 
 To further enhance the experience, the club also brings along a laser pointer to point out constellations and other celestial objects. The icing on the cake is that unlike regular [star parties](#star-parties), these go on for two nights, giving everyone a chance to attend.
 
-{: .highlight-title }
+{: .note }
 
-> Note
->
 > While coming to the [star party](#star-parties), make sure you carry your institute issued health booklet or ID card and are wearing full length trousers and covered shoes.
 
-{: .important-title}
+{: .important}
 
-> Important
->
 > While at a [star party](#star-parties) or any observation session in general, make sure to follow the [etiquettes](../../observation/night%20sky/etiquettes.html)!
 
 A few shots from the [star parties](#star-parties) organized by the club:
