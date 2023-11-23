@@ -24,12 +24,14 @@
   }
 
   document.addEventListener('DOMContentLoaded', () => {
+    const headerTitle = document.querySelector('h2')
     const shareElement = document.createElement('i')
+
     shareElement.classList.add('fa-solid')
     shareElement.classList.add('fa-share')
     shareElement.classList.add('fa-sm')
-    shareElement.onclick = () => {}
+    shareElement.onclick = () => shareFunction(headerTitle.innerText)
 
-    document.querySelector('h2').appendChild(shareElement)
+    headerTitle.appendChild(shareElement)
   })
 </script>
