@@ -6,12 +6,14 @@
 </script>
 
 <script>
-  const shareFunction = async () => {
+  const shareFunction = async heading => {
     if (navigator.canShare) {
       try {
+        const text = `Read about ${heading} on Astronomy Club IITK Wiki: ${window.location.href}`
         navigator.share({
           title: document.title,
-          url: window.location.href
+          url: window.location.href,
+          text: text
         })
       } catch (err) {
         console.error('[ERROR]: ', err)
@@ -26,7 +28,7 @@
     shareElement.classList.add('fa-solid')
     shareElement.classList.add('fa-share')
     shareElement.classList.add('fa-sm')
-    shareElement.onclick = shareFunction
+    shareElement.onclick = () => {}
 
     document.querySelector('h2').appendChild(shareElement)
   })
