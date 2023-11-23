@@ -2,6 +2,14 @@ body {
   padding-bottom: 0px !important;
 }
 
+h2:first-of-type {
+  i {
+    float: right;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+}
+
 a.site-title {
   padding: 0px;
   display: flex;
@@ -38,5 +46,13 @@ div.footer-icons {
   .site-title {
     padding-left: 0px !important;
     justify-content: center;
+  }
+}
+
+@media (max-width: 800px) {
+  h2:first-of-type {
+    a {
+      display: none !important;
+    }
   }
 }
