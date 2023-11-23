@@ -1,9 +1,6 @@
 {% if site.socials %}
 
 <div class="footer-icons">
-  <a style="margin-right: 24px">
-    <i class="fa-solid fa-share-nodes fa-xl" onclick="shareFunction()"></i>
-  </a>
   {% if site.socials.email %}
   <a href="mailto:{{ site.socials.email }}" target="_blank">
     <i class="fa-solid fa-envelope fa-xl"></i>
@@ -81,4 +78,12 @@
     console.error(error)
     alert('Enable JS for the website on your browser!')
   }
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const shareLine = document.createElement('p')
+    shareLine.innerHTML = `Liked what you read? &nbsp;&nbsp; <span class="btn" onclick="shareFunction()">Share this page!</span>`
+    document.querySelector('main').appendChild(shareLine)
+  })
 </script>
