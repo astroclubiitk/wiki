@@ -6,4 +6,4 @@ has_children: true
 nav_order: 1
 ---
 
-## Coordinate Systems
+## Celestial Sphere
