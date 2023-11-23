@@ -8,6 +8,7 @@ nav_order: 1
 
 ## Stellar Evolution
 
+<br />
 [Stellar evolution](#stellar-evolution) is the description of the way that stars change with time. On human timescales, most stars do not appear to change at all, but if we were to look for billions of years, we would see how stars are born, how they age and how they die.
 
 The primary factor determining how a star evolves is its mass as it reaches main sequence. The following is a brief outline tracing the evolution of a low-mass and a high-mass star. (Pic Credits: [ESA](https://www.esa.int/))
