@@ -4,3 +4,32 @@
       '<img src="/wiki/assets/images/astroclubiitk_navbar_logo.png" alt="logo" style="height: 80%; max-height: 45px" />'
   })
 </script>
+
+<script>
+  const shareFunction = async () => {
+    if (navigator.canShare) {
+      try {
+        navigator.share({
+          title: document.title,
+          url: window.location.href
+        })
+      } catch (err) {
+        console.error('[ERROR]: ', err)
+      }
+    } else {
+      alert("Your browser doesn't support Web Share API")
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const shareElement = document.createElement('i')
+    shareElement.classList.add('fa-solid')
+    shareElement.classList.add('fa-share')
+    shareElement.classList.add('fa-sm')
+    shareElement.style.cssText =
+      'float: right; cursor: pointer; margin-top: 4px;'
+    shareElement.onclick = shareFunction
+
+    document.querySelector('h2').appendChild(shareElement)
+  })
+</script>

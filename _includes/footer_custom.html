@@ -1,6 +1,9 @@
 {% if site.socials %}
 
 <div class="footer-icons">
+  <a style="margin-right: 24px">
+    <i class="fa-solid fa-share-nodes fa-xl" onclick="shareFunction()"></i>
+  </a>
   {% if site.socials.email %}
   <a href="mailto:{{ site.socials.email }}" target="_blank">
     <i class="fa-solid fa-envelope fa-xl"></i>
