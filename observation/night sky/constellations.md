@@ -18,9 +18,7 @@ Some examples of constellations are:
 3. Crux
 4. Taurus
 
----
-
-## Asterisms
+### Asterisms
 
 <br>
 Asterisms are relatively new. Many of them are small patterns, often within a constellation, and some are made of bright stars from more than one constellation. There is nothing official about asterisms, and there are no rules about how big or small they should be. They are just patterns that people have noticed in the night sky and are easily recognizable.
@@ -32,9 +30,7 @@ Some examples of asterisms are:
 3. The Summer Triangle (made of stars from Cygnus - Deneb, Lyra - Vega, and Aquila - Altair)
 4. Pleiades (part of Taurus)
 
----
-
-## Stars
+### Stars
 
 <br>
 The 88 [constellations](./constellations.html#constellations) are all given three-letter abbreviations that help identify them. Stars that lie within a constellation boundary are referred to with these three-letter codes. In addition, stargazers often use what's called the genitive form of the constellation name. For example, the genetive form of Orion is _Orionis_. So, if you are referring to a star in Orion, you would call it "something Orionis".
@@ -53,7 +49,7 @@ Some of the brightest stars have a proper name, which you can use interchangeabl
 
 ---
 
-## Commonly known Constellations and Asterisms
+### Commonly known Constellations and Asterisms
 
 <br />
 The following are some of the commonly known constellations and asterisms visible from the sky of Kanpur (some all year round), with a screenshot of each captured in [Stellarium](./stellarium.html), arranged in alphabetical order (also read about the [mythical lores](./lores.html) about them):
