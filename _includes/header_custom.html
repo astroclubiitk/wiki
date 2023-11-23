@@ -9,7 +9,7 @@
   const shareFunction = async heading => {
     if (navigator.canShare) {
       try {
-        const text = `Read about ${heading} on Astronomy Club IITK Wiki: ${window.location.href}`
+        const text = `Read about ${heading} on Astronomy Club IITK Wiki:`
         navigator.share({
           title: document.title,
           url: window.location.href,
