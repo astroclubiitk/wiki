@@ -32,5 +32,13 @@
     shareElement.classList.add('fa-sm')
     shareElement.onclick = shareFunction
     headerTitle.appendChild(shareElement)
+
+    const printElement = document.createElement('i')
+    printElement.classList.add('fa-solid')
+    printElement.classList.add('fa-print')
+    printElement.classList.add('fa-sm')
+    printElement.style.marginRight = '16px'
+    printElement.onclick = () => window.print()
+    headerTitle.appendChild(printElement)
   })
 </script>
