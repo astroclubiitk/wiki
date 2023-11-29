@@ -8,6 +8,7 @@ nav_order: 1
 
 ## Altitude-Azimuth Coordinate system
 
+<br />
 The Altitude-Azimuth coordinate system is a local coordinate system that is centered on the observer. The altitude is the angle above the [horizon](#horizon), and the azimuth is the angle measured along the horizon from the north point. The altitude ranges from 0 to 90 degrees for visible objects, and the azimuth ranges from 0 to 360 degrees.
 
 The altitude and azimuth are measured from the observer's location, so they are different for every observer. The altitude and azimuth are the most intuitive coordinates for observers, but they are not the most convenient for calculations.
