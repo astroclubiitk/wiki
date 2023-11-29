@@ -15,8 +15,6 @@ One of the most awaited events of the year, the club tries to organize star part
 
 {: .fun }
 
-> Fun Fact
->
 > The club caters to an astounding audience of more than 3,500 people every time a [star party](#star-parties) is organized! To put that into perspective, there are 8,000 students in the institute.
 
 Held at the Airstrip, far away from the hustle-bustle of hostels, the [star parties](#star-parties) are a great way to get away from the artificial lights, observe the night sky and blow off a lof of post examination stress.
