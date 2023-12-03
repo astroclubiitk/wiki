@@ -65,7 +65,7 @@ Coming to the possibly one of the most recognizable [constellation](./constellat
 
 The three stars of [Orion](#orion)'s belt point to the bright orange star Aldebaran in [Taurus](./constellations.html#taurus), the Bull by extending the line 22 degrees in the north-west direction.
 
-Extending the line further by around 14 degrees, we reach the Pleiades ([Messeir](./deep%20sky%20objects.html#messier-objects) 45), a beautiful cluster of stars in [Taurus](./constellations.html#taurus).
+Extending the line further by around 14 degrees, we reach the Pleiades ([Messier](./deep%20sky%20objects.html#messier-objects) 45), a beautiful cluster of stars in [Taurus](./constellations.html#taurus).
 
 The three stars of [Orion](#orion)'s belt also point to Sirius, the brightest star in the [night sky](../night%20sky/), in [Canis Major](./constellations.html#canis-major), the Great Dog, around 20 degrees south-east of the belt.
 

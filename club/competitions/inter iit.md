@@ -11,7 +11,7 @@ nav_order: 4
 <br />
 The [Inter-IIT Tech Meet](#inter-iit-tech-meet) is one of the, if not the most important and prestigeous [competitions](./) the club paritipates in. Participants from 22 IITs compete in this annual showdown to prove their mettle in the fields of science and technology.
 
-Ever since the inception of [Inter-IIT Tech Meet](#inter-iit-tech-meet) in 2012, Astronomy Club has excelled in astro-specific problem statements, achieving podium finishes **every single time**. Be it Messeir Marathon, Data Analysis or Case Studies, the club has never failed to make its mark and have always helped the contingent of IIT Kanpur win laurels year after year. All this motivates us to preserve out legacy and work & prepare even harder than the year before.
+Ever since the inception of [Inter-IIT Tech Meet](#inter-iit-tech-meet) in 2012, Astronomy Club has excelled in astro-specific problem statements, achieving podium finishes **every single time**. Be it Messier Marathon, Data Analysis or Case Studies, the club has never failed to make its mark and have always helped the contingent of IIT Kanpur win laurels year after year. All this motivates us to preserve out legacy and work & prepare even harder than the year before.
 
 ### Tech Meet 11.0
 
