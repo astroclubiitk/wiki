@@ -25,3 +25,15 @@ Ever fancied yourself as a galactic grammar guru or a nebula-naming ninja? Buckl
 Contributing is easier than deciphering alien hieroglyphics - just imagine Wikipedia with a side of starlight and a dash of GitHub-flavoured quirkiness. Whether you're a code conjurer or a prose prodigy, our celestial circus welcomes all under our intergalactic big top.
 
 Feel the gravitational pull of knowledge? Got a comet-worthy quip or a pulsar-powered pun? Fork us on [Github](https://github.com/astroclubiitk/wiki) and shout us a pull request; let's turn this wiki into a supernova of collective brilliance. Because, in the words of our favorite cosmic philosophers, "knowledge shared is knowledge squared." Join the comsic jamboree, where stars align and contributors shine - because when it comes to exploring the universe, we believe in open-sourcing the cosmos and sharing the astronomical love!
+
+---
+
+#### Table of Contents
+
+- [Home](#top)
+- [Observation](./observation/)
+- [Astrophotography](./astrophotography/)
+- [Theory](./theory/)
+- [Computational](./computational/)
+- [Club](./club/)
+- [Random](./random.html)
