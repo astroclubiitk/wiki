@@ -141,6 +141,12 @@ The [constellation](#constellations) that shares its name with the [club's annua
 
 ![Perseus](../../assets/images/observation/night%20sky/constellations/perseus.png)
 
+### Sagittarius
+
+[Sagittarius](#sagittarius) is a striking constellation visible in the southern hemisphere, named after the centaur of Greek mythology, often depicted as a half-human, half-horse archer. Known for its teapot-shaped asterism, [Sagittarius](#sagittarius) resides in the heart of the Milky Way, boasting a wealth of celestial wonders. Among its treasures is the center of our galaxy, the Milky Way's bulge, and a plethora of star clusters, nebulae, and cosmic phenomena. The constellation is home to the impressive Lagoon Nebula (M8) and the colorful Trifid Nebula (M20), captivating celestial clouds of gas and dust that birth new stars. [Sagittarius](#sagittarius)' brightest star, Epsilon Sagittarii (Kaus Australis), marks the "lid" of the teapot, guiding stargazers toward its celestial marvels. In astrology, [Sagittarius](#sagittarius) represents traits of adventure, exploration, and philosophical pursuits, echoing the mythical archer's quest for knowledge and discovery in the vastness of the cosmos.
+
+![Sagittarius](../../assets/images/observation/night%20sky/constellations/sagittarius.png)
+
 ### Scorpius
 
 [Scorpius](#scorpius) is a prominent zodiacal [constellation](#constellations) located in the southern celestial hemisphere. It is named after the scorpion from Greek mythology, sent by the goddess Artemis to sting the hunter Orion. The brightest star in [Scorpius](#scorpius) is Antares, often referred to as the "Heart of the Scorpion" due to its reddish hue. [Scorpius](#scorpius) is easily recognizable for its distinctive "J" or fishhook shape, which represents the scorpion's body and tail. This [constellation](#constellations) is home to several interesting deep-sky objects, including the open cluster Messier 7 and the globular cluster Messier 4. [Scorpius](#scorpius) is a prominent feature in the southern night sky during the summer months and can be seen from southern latitudes.
