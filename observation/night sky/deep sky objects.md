@@ -41,7 +41,7 @@ A list of the most famous [Messier Objects](#messier-objects), their number and 
 | M104   | Sombrero Galaxy              | [Virgo](./constellations.html#virgo)             |
 | M1     | Crab Nebula                  | [Taurus](./constellations.html#taurus)           |
 | M51    | Whirpool Galaxy              | Canes Venatici                                   |
-| M57    | Ring Nebula                  | Lyra                                             |
+| M57    | Ring Nebula                  | [Lyra](./constellations.html#lyra)               |
 
 You can download the complete list of [messier objects](#messier-objects) from [here](../../assets/docs/observation/night%20sky/deep%20sky%20objects/Messier%20Catalogue.pdf)
 
