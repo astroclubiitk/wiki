@@ -27,21 +27,21 @@ Initially containing only 45 [DSOs](#deep-sky-objects), the yet unnumbered [Mess
 
 A list of the most famous [Messier Objects](#messier-objects), their number and the constellation in which they're found is given below:
 
-| Number | Name                         | Constellation                                    |
-| ------ | ---------------------------- | ------------------------------------------------ |
-| M45    | Pleiades                     | [Taurus](./constellations.html#taurus)           |
-| M21    | Andromeda Galaxy             | [Andromeda](./constellations.html#andromeda)     |
-| M42    | Orion Nebula                 | [Orion](./constellations.html#orion)             |
-| M22    | Sagittarius Cluster          | [Sagittarius](./constellations.html#sagittarius) |
-| M33    | Triangulum / Pinwheel Galaxy | Triangulum                                       |
-| M20    | Trifid Nebula                | [Sagittarius](./constellations.html#sagittarius) |
-| M16    | Eagle Nebula                 | Serpens                                          |
-| M27    | Dumbbell Nebula              | Vulpecula                                        |
-| M101   | Pinwheel Galaxy              | [Ursa Major](./constellations.html#ursa-major)   |
-| M104   | Sombrero Galaxy              | [Virgo](./constellations.html#virgo)             |
-| M1     | Crab Nebula                  | [Taurus](./constellations.html#taurus)           |
-| M51    | Whirpool Galaxy              | Canes Venatici                                   |
-| M57    | Ring Nebula                  | [Lyra](./constellations.html#lyra)               |
+| Number | Name                | Constellation                                    |
+| ------ | ------------------- | ------------------------------------------------ |
+| M45    | Pleiades            | [Taurus](./constellations.html#taurus)           |
+| M31    | Andromeda Galaxy    | [Andromeda](./constellations.html#andromeda)     |
+| M42    | Orion Nebula        | [Orion](./constellations.html#orion)             |
+| M22    | Sagittarius Cluster | [Sagittarius](./constellations.html#sagittarius) |
+| M33    | Triangulum Galaxy   | Triangulum                                       |
+| M20    | Trifid Nebula       | [Sagittarius](./constellations.html#sagittarius) |
+| M16    | Eagle Nebula        | Serpens                                          |
+| M27    | Dumbbell Nebula     | Vulpecula                                        |
+| M101   | Pinwheel Galaxy     | [Ursa Major](./constellations.html#ursa-major)   |
+| M104   | Sombrero Galaxy     | [Virgo](./constellations.html#virgo)             |
+| M1     | Crab Nebula         | [Taurus](./constellations.html#taurus)           |
+| M51    | Whirpool Galaxy     | Canes Venatici                                   |
+| M57    | Ring Nebula         | [Lyra](./constellations.html#lyra)               |
 
 You can download the complete list of [messier objects](#messier-objects) from [here](../../assets/docs/observation/night%20sky/deep%20sky%20objects/Messier%20Catalogue.pdf)
 
