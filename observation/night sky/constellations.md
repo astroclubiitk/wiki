@@ -26,7 +26,7 @@ Some examples of asterisms are:
 
 1. The Big Dipper (part of [Ursa Major](#ursa-major))
 2. The Southern Cross (part of Crux)
-3. The Summer Triangle (made of stars from [Cygnus](#cygnus) - Deneb, Lyra - Vega, and [Aquila](#aquilla) - Altair)
+3. The Summer Triangle (made of stars from [Cygnus](#cygnus) - Deneb, [Lyra](#lyra) - Vega, and [Aquila](#aquilla) - Altair)
 4. Pleiades (part of [Taurus](#taurus))
 
 ### Stars
@@ -128,6 +128,12 @@ The [constellation](#constellations) that shares its name with the [club's annua
 [Leo](#leo) is a zodiacal [constellation](#constellations) located in the northern celestial hemisphere. It is one of the most recognizable [constellations](#constellations) and represents the lion in Greek mythology. The brightest star in [Leo](#leo) is Regulus, which marks the heart of the lion. [Leo](#leo) is also known for its distinctive pattern of stars that form a backward question mark or sickle shape, representing the lion's head and mane. In ancient cultures, [Leo](#leo) was often associated with strength, power, and royalty. In astrology, [Leo](#leo) is the fifth sign of the zodiac and is linked with characteristics such as creativity, confidence, and leadership. [Leo](#leo) is visible in both hemispheres and is best observed during the spring and summer months.
 
 ![Leo](../../assets/images/observation/night%20sky/constellations/leo.png)
+
+### Lyra
+
+[Lyra](#lyra), a celestial constellation in the northern sky, holds a rich mythological legacy as the harp of Orpheus from Greek mythology. Its prominent star Vega, one of the brightest in the sky, anchors this constellation. [Lyra](#lyra)'s distinctive shape resembles a small parallelogram, with Vega marking its apex, emitting a brilliant bluish-white radiance. Apart from its stellar gem, [Lyra](#lyra) boasts the Ring Nebula (M57), a mesmerizing planetary nebula resembling a cosmic smoke ring. As a cultural symbol, [Lyra](#lyra) represents the harmony and artistic inspiration associated with music, echoing the myth of Orpheus's enchanting melodies. This constellation's presence in the heavens is a reminder of the creative spirit and the profound beauty found in the arts, resonating through the timeless tales and melodies echoing from its mythological origins.
+
+![Lyra](../../assets/images/observation/night%20sky/constellations/lyra.png)
 
 ### Orion
 
