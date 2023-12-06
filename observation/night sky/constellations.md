@@ -93,6 +93,12 @@ The following are some of the commonly known [constellations](#constellations) a
 
 ![Canis Major](../../assets/images/observation/night%20sky/constellations/canis%20major.png)
 
+### Capricornus
+
+[Capricornus](#capricornus), known as [Capricorn](#capricornus), is a zodiacal constellation embodying the sea-goat of Greek mythology, a creature that merges elements of a goat and a fish. Positioned in the southern celestial hemisphere, this constellation is modest in its stellar brightness but holds significance as one of the zodiac signs, marking the winter solstice in astrology. Its distinct triangular shape represents a goat's horn or a fish-tailed creature, with notable features like the globular cluster Messier 30 (M30), a stellar congregation formed billions of years ago.
+
+![Capricornus](../../assets/images/observation/night%20sky/constellations/capricornus.png)
+
 ### Cassiopeia
 
 [Cassiopeia](#cassiopeia) is a distinctive "W" or "M" shaped [constellation](#constellations) located in the northern hemisphere. In Greek mythology, it represents Queen [Cassiopeia](#cassiopeia), who boasted about her beauty and incurred the wrath of the sea god Poseidon. The [constellation](#constellations) contains several bright stars, with the most prominent being Schedar, Caph, and Ruchbah. [Cassiopeia](#cassiopeia) is part of the Perseus [constellation](#constellations) family and is known for its rich deep-sky objects, including the open star cluster Messier 52 and the supernova remnant Cassiopeia A. Due to its circumpolar nature, [Cassiopeia](#cassiopeia) can be observed year-round in the northern hemisphere, making it a familiar and easily identifiable feature of the night sky.
