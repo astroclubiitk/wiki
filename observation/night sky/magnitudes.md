@@ -9,15 +9,15 @@ nav_order: 1
 ## Magnitudes
 
 <br />
-[Magnitude](#magnitudes) is essentially a measure of the brightness of an object. It doesn't have any units of measurement. The lower the magnitude, the brighter the object. The magnitude scale is logarithmic in nature, i.e., a difference of 1 magnitude corresponds to a difference of ~2.5 times in brightness.
+[Magnitude](#magnitudes) is essentially a measure of the brightness of an object. It doesn't have any units of measurement. The lower the [magnitude](#magnitudes), the brighter the object. The [magnitude](#magnitudes) scale is logarithmic in nature, i.e., a difference of 1 [magnitude](#magnitudes) corresponds to a difference of ~2.5 times in brightness.
 
-The scale was originally invented by the Alexandrian astronomer, Ptolemy, where he classified the objects on a six-point scale. In the northern hemisphere, Vega is one of the brightest stars, earning itself a magnitude of 0. The other stars were classified with Vega as reference.
+The scale was originally invented by the Alexandrian astronomer, Ptolemy, where he classified the objects on a six-point scale. In the northern hemisphere, Vega is one of the brightest stars, earning itself a [magnitude](#magnitudes) of 0. The other stars were classified with Vega as reference.
 
 More recently, the modern logarithmic magnitude scale was adopted and the Sun was placed at an [apparent magnitude](#apparent-magnitude) of approximately -27. The rest of the celestial bodies (and satellites like the ISS) followed suit.
 
 ### Apparent Magnitude
 
-[Apparent magnitude](#apparent-magnitude) is the most widely used type of magnitude. If you have a reference object, whose magnitude is fixed (or known), the magnitude of any other object can be very easily calculated using the following formula:
+[Apparent magnitude](#apparent-magnitude) is the most widely used type of [magnitude](#magnitudes). If you have a reference object, whose [magnitude](#magnitudes) is fixed (or known), the [magnitude](#magnitudes) of any other object can be very easily calculated using the following formula:
 
 $$
 \begin{equation}
