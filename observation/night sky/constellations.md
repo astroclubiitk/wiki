@@ -53,9 +53,9 @@ The following are some of the commonly known [constellations](#constellations) a
 
 > Now that you've scrolled till here, **BEWARE!**
 >
-> If you plan on applying to become a secretary, you must be familiar with these. If you plan on applying to become a coordinator of the Astronomy Club of IIT Kanpur, you should know these by heart. If you don't, Tarish'll come for your soul.
+> If you plan on applying to become a [secretary](../../club/teams/recruitment.html#secretary), you must be familiar with these. If you plan on applying to become a [coordinator](../../club/teams/recruitment.html#coordinator) of the Astronomy Club of IIT Kanpur, you should know these by heart. If you don't, Tarish'll come for your soul.
 >
-> These _might_ be asked during your secretary/coordinator interview if the night sky permits and the present coordinators see it fit. You can thank us later. Believe us, it's worth it. If you don't believe us, ask the present coordinators.
+> These _might_ be asked during your [secretary](../../club/teams/recruitment.html#secretary) / [coordinator](../../club/teams/recruitment.html#coordinator) interview if the night sky permits and the present [coordinators](../../club/teams/recruitment.html#coordinator) see it fit. You can thank us later. Believe us, it's worth it. If you don't believe us, ask the present [coordinators](../../club/teams/recruitment.html#coordinator).
 
 ### Andromeda
 
@@ -95,7 +95,7 @@ The following are some of the commonly known [constellations](#constellations) a
 
 ### Capricornus
 
-[Capricornus](#capricornus), known as [Capricorn](#capricornus), is a zodiacal constellation embodying the sea-goat of Greek mythology, a creature that merges elements of a goat and a fish. Positioned in the southern celestial hemisphere, this constellation is modest in its stellar brightness but holds significance as one of the zodiac signs, marking the winter solstice in astrology. Its distinct triangular shape represents a goat's horn or a fish-tailed creature, with notable features like the globular cluster Messier 30 (M30), a stellar congregation formed billions of years ago.
+[Capricornus](#capricornus), known as [Capricorn](#capricornus), is a zodiacal [constellation](#constellations) embodying the sea-goat of Greek mythology, a creature that merges elements of a goat and a fish. Positioned in the southern celestial hemisphere, this [constellation](#constellations) is modest in its stellar brightness but holds significance as one of the zodiac signs, marking the winter solstice in astrology. Its distinct triangular shape represents a goat's horn or a fish-tailed creature, with notable features like the globular cluster Messier 30 (M30), a stellar congregation formed billions of years ago.
 
 ![Capricornus](../../assets/images/observation/night%20sky/constellations/capricornus.png)
 
@@ -131,7 +131,7 @@ The [constellation](#constellations) that shares its name with the [club's annua
 
 ### Lyra
 
-[Lyra](#lyra), a celestial constellation in the northern sky, holds a rich mythological legacy as the harp of Orpheus from Greek mythology. Its prominent star Vega, one of the brightest in the sky, anchors this constellation. [Lyra](#lyra)'s distinctive shape resembles a small parallelogram, with Vega marking its apex, emitting a brilliant bluish-white radiance. Apart from its stellar gem, [Lyra](#lyra) boasts the Ring Nebula (M57), a mesmerizing planetary nebula resembling a cosmic smoke ring. As a cultural symbol, [Lyra](#lyra) represents the harmony and artistic inspiration associated with music, echoing the myth of Orpheus's enchanting melodies. This constellation's presence in the heavens is a reminder of the creative spirit and the profound beauty found in the arts, resonating through the timeless tales and melodies echoing from its mythological origins.
+[Lyra](#lyra), a celestial [constellation](#constellations) in the northern sky, holds a rich mythological legacy as the harp of Orpheus from Greek mythology. Its prominent star Vega, one of the brightest in the sky, anchors this [constellation](#constellations). [Lyra](#lyra)'s distinctive shape resembles a small parallelogram, with Vega marking its apex, emitting a brilliant bluish-white radiance. Apart from its stellar gem, [Lyra](#lyra) boasts the Ring Nebula (M57), a mesmerizing planetary nebula resembling a cosmic smoke ring. As a cultural symbol, [Lyra](#lyra) represents the harmony and artistic inspiration associated with music, echoing the myth of Orpheus's enchanting melodies. This [constellation](#constellations)'s presence in the heavens is a reminder of the creative spirit and the profound beauty found in the arts, resonating through the timeless tales and melodies echoing from its mythological origins.
 
 ![Lyra](../../assets/images/observation/night%20sky/constellations/lyra.png)
 
@@ -155,7 +155,7 @@ The [constellation](#constellations) that shares its name with the [club's annua
 
 ### Sagittarius
 
-[Sagittarius](#sagittarius) is a striking constellation visible in the southern hemisphere, named after the centaur of Greek mythology, often depicted as a half-human, half-horse archer. Known for its teapot-shaped asterism, [Sagittarius](#sagittarius) resides in the heart of the Milky Way, boasting a wealth of celestial wonders. Among its treasures is the center of our galaxy, the Milky Way's bulge, and a plethora of star clusters, nebulae, and cosmic phenomena. The constellation is home to the impressive Lagoon Nebula (M8) and the colorful Trifid Nebula (M20), captivating celestial clouds of gas and dust that birth new stars. [Sagittarius](#sagittarius)' brightest star, Epsilon Sagittarii (Kaus Australis), marks the "lid" of the teapot, guiding stargazers toward its celestial marvels. In astrology, [Sagittarius](#sagittarius) represents traits of adventure, exploration, and philosophical pursuits, echoing the mythical archer's quest for knowledge and discovery in the vastness of the cosmos.
+[Sagittarius](#sagittarius) is a striking [constellation](#constellations) visible in the southern hemisphere, named after the centaur of Greek mythology, often depicted as a half-human, half-horse archer. Known for its teapot-shaped asterism, [Sagittarius](#sagittarius) resides in the heart of the Milky Way, boasting a wealth of celestial wonders. Among its treasures is the center of our galaxy, the Milky Way's bulge, and a plethora of star clusters, nebulae, and cosmic phenomena. The [constellation](#constellations) is home to the impressive Lagoon Nebula (M8) and the colorful Trifid Nebula (M20), captivating celestial clouds of gas and dust that birth new stars. [Sagittarius](#sagittarius)' brightest star, Epsilon Sagittarii (Kaus Australis), marks the "lid" of the teapot, guiding stargazers toward its celestial marvels. In astrology, [Sagittarius](#sagittarius) represents traits of adventure, exploration, and philosophical pursuits, echoing the mythical archer's quest for knowledge and discovery in the vastness of the cosmos.
 
 ![Sagittarius](../../assets/images/observation/night%20sky/constellations/sagittarius.png)
 
