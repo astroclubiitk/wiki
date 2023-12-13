@@ -20,6 +20,8 @@ nav_order: 4
 
 | Name            | Department             | Batch | Email                                                     |
 | --------------- | ---------------------- | ----- | --------------------------------------------------------- |
+| Anushree Shukla | Mechanical Engineering | Y21   | [anushrees21@iitk.ac.in](mailto:anushrees21@iitk.ac.in)   |
+| Eesh Naugraiya  | Mechanical Engineering | Y21   | [eeshn21@iitk.ac.in](mailto:eeshn21@iitk.ac.in)           |
 | K Arnav         | Physics                | Y21   | [karnav21@iitk.ac.in](mailto:karnav21@iitk.ac.in)         |
 | Shreya Rajak    | Aerospace Engineering  | Y21   | [shreyar21@iitk.ac.in](mailto:shreyar21@iitk.ac.in)       |
 | Suryansh Gaur   | Chemical Engineering   | Y21   | [suryanshg21@iitk.ac.in](mailto:suryanshg21@iitk.ac.in)   |
