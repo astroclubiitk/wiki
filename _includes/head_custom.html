@@ -72,7 +72,7 @@
 <script>
   const redirectFunction = () => {
     try {
-      fetch('/wiki/assets/js/search-data.json')
+      fetch('/assets/js/search-data.json')
         .then(res => res.json())
         .then(data => {
           const length = Object.keys(data).length
