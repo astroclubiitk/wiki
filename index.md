@@ -20,7 +20,7 @@ Join us on this interstellar journey, where black holes meet whiteboards, and su
 
 ## Contributing
 
-Ever fancied yourself as a galactic grammar guru or a nebula-naming ninja? Buckle up your asteroid belt and join the cosmic carnival at the [Astronomy Club IITK](../)'s [Wiki on GitHub](https://github.com/astroclubiitk/wiki)! This isn't just any repository; it's the open-source galaxy brain trust where even black holes can't keep secrets.
+Ever fancied yourself as a galactic grammar guru or a nebula-naming ninja? Buckle up your asteroid belt and join the cosmic carnival at the [Astronomy Club IITK](https://astroclubiitk.in)'s [Wiki on GitHub](https://github.com/astroclubiitk/wiki)! This isn't just any repository; it's the open-source galaxy brain trust where even black holes can't keep secrets.
 
 Contributing is easier than deciphering alien hieroglyphics - just imagine Wikipedia with a side of starlight and a dash of GitHub-flavoured quirkiness. Whether you're a code conjurer or a prose prodigy, our celestial circus welcomes all under our intergalactic big top.
 
