@@ -59,7 +59,7 @@ Note that the flux referred to here is generally known as intensity in physics, 
 >
 > - -4 are visibile when the Sun is high, and can cast shadows at night
 > - +4.5 are visible from IIT Kanpur with naked eye
-> - +7 can be captured using the [Observatory](https://astroclubiitk.github.io/resources/observatory) at IIT Kanpur
+> - +7 can be captured using the [Observatory](https://astroclubiitk.in/resources/observatory) at IIT Kanpur
 > - +34 are observable in the visible light by the JWST
 >
 > Rumor has it that Naveen can see objects with [apparent magnitude](#apparent-magnitude) less than 10
