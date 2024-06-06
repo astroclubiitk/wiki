@@ -62,7 +62,7 @@
     fetch(url)
       .then(response => response.json())
       .then(data => {
-        const names = data.map(commit => commit.committer.login)
+        const names = data.map(commit => commit.commit.committer.name)
         const uniqueNames = [...new Set(names)]
         const links = uniqueNames.map(
           name =>
