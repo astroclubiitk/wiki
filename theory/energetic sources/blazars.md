@@ -11,7 +11,7 @@ nav_order: 3
 Blazars are extremely energetic and compact [active galactic nuclei (AGN)](./AGNs.html) with relativistic jets pointing toward an observer. Blazars are a subtype of quasars whose jets point toward Earth.
 
 {: .fun}
->Blazars are so rare that in the 1 million quasars that are identified till now only 2700 of them are blazars.
+>Blazars are so rare that, out of the 1 million quasars identified so far, only 2,700 are blazars.
 
 ### Formation
 When a supermassive [black hole](../special%20stars/black%20holes.html) at the centre of a galaxy begins accreting material from its surroundings, it forms a very hot accretion disk. Strong magnetic fields develop around the black hole due to the superhot accretion disk. These magnetic fields generate jets of very high-speed particles. These particles travel at nearly the speed of light, causing them to emit high-energy radiation, such as gamma rays and X-rays. When these jets point toward Earth then the AGN is said to be a blazar.
