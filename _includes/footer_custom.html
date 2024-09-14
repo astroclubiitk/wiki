@@ -59,10 +59,17 @@
       path = 'index.md'
     }
     const url = `https://api.github.com/repos/astroclubiitk/wiki/commits?path=${path}`
+    const skippedNames = new Set(['dependabot', 'github-actions', 'github'])
     fetch(url)
       .then(response => response.json())
       .then(data => {
-        const names = data.map(commit => commit.commit.committer.name.toLowerCase())
+        const names = data
+          .map(commit => {
+            const userName =
+              commit?.author?.login || commit?.commit?.author?.name
+            return userName?.toLowerCase()
+          })
+          .filter(name => name !== undefined && !skippedNames.has(name))
         const uniqueNames = [...new Set(names)]
         const links = uniqueNames.map(
           name =>
