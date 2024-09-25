@@ -1,5 +1,13 @@
 # Astronomy Club IITK Wiki
 
+## Hacktoberfest Notice ⚠️📢
+
+We are participating in [Hacktoberfest 2024](https://hacktoberfest.com)! 🎉
+
+If you are interested in contributing to this repository, you may submit a pull request to add new content, fix typos, or improve the existing content.
+
+Checkout [contributing](https://wiki.astroclubiitk.in/#contributing) to learn more!
+
 ## Setup
 
 1. Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/) on your system

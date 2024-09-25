@@ -32,7 +32,7 @@ WIMPs are thought to have been created in abundance during the early universe, w
 
 {: .fun }
 
->The idea of WIMP annihilation, which involves the collision of two WIMPs producing detectable particles, was proposed as a way to detect dark matter. This led to the development of indirect detection experiments, which search for products of WIMP annihilation in nearby galaxies and galaxy clusters. In the 2000s, direct detection experiments were developed, which aim to detect the scattering of WIMPs off atomic nuclei in the laboratory. These experiments have provided some of the most stringent limits on WIMP properties to date.
+> The idea of WIMP annihilation, which involves the collision of two WIMPs producing detectable particles, was proposed as a way to detect dark matter. This led to the development of indirect detection experiments, which search for products of WIMP annihilation in nearby galaxies and galaxy clusters. In the 2000s, direct detection experiments were developed, which aim to detect the scattering of WIMPs off atomic nuclei in the laboratory. These experiments have provided some of the most stringent limits on WIMP properties to date.
 
 ### Theoretical Properties Of WIMPS
 
@@ -47,13 +47,13 @@ The main theoretical characteristics of a WIMP are:
 Experimental efforts to detect WIMPs are ongoing, with several approaches being pursued:
 
 1. Indirect Detection:
-This involves searching for products of WIMP annihilation, such as gamma rays, neutrinos, and cosmic rays, in nearby galaxies and galaxy clusters. The idea is that WIMPs would accumulate in the centers of these galaxies and clusters, leading to a higher rate of annihilation and subsequent emission of detectable particles.
+   This involves searching for products of WIMP annihilation, such as gamma rays, neutrinos, and cosmic rays, in nearby galaxies and galaxy clusters. The idea is that WIMPs would accumulate in the centers of these galaxies and clusters, leading to a higher rate of annihilation and subsequent emission of detectable particles.
 
 2. Direct Detection:
-This involves designing experiments to measure the collision of WIMPs with nuclei in the laboratory. The goal is to detect the scattering of WIMPs off atomic nuclei, which would produce a signal that could be distinguished from background noise.
+   This involves designing experiments to measure the collision of WIMPs with nuclei in the laboratory. The goal is to detect the scattering of WIMPs off atomic nuclei, which would produce a signal that could be distinguished from background noise.
 
 3. Collider Searches:
-This involves attempting to directly produce WIMPs in high-energy collisions, such as those produced by the Large Hadron Collider (LHC) at CERN.
+   This involves attempting to directly produce WIMPs in high-energy collisions, such as those produced by the Large Hadron Collider (LHC) at CERN.
 
 ### The WIMP Miracle
 
