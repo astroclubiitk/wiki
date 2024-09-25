@@ -30,8 +30,9 @@ nav_order: 5
 | --------------------| -------------------------------- | ---  | -------------------------------------------------------- |
 | Aditya Prakhar      | Material Science and Engineering | Y23  | [adityap23@iitk.ac.in](mailto:adityap23@iitk.ac.in)      |
 | Aditya Srivastava   | Physics                          | Y23  | [adityasri23@iitk.ac.in](mailto:adityasri23@iitk.ac.in)  |
-| Anubhab Goswami     | Mechanical Engineering           | Y23  | [anubhabg23@iitk.ac.in](mailto:anubhabg23@iitk.ac.in)    |
+| Anubhab Goswami     | Mathematics and Scientific Computing           | Y23  | [anubhabg23@iitk.ac.in](mailto:anubhabg23@iitk.ac.in)    |
 | Aryan Kumar         | Computer Science and Engineering | Y23  | [aryank23@iitk.ac.in](mailto:aryank23@iitk.ac.in)        |     
+| Bharambe Sarvesh Purushottam| Civil Engineering        | Y23  | [sarveshp23@iitk.ac.in](mailto:sarveshp23@iitk.ac.in)    |
 | Chaitanya Vishnoi   | Computer Science and Engineering | Y23  | [chaitanyav23@iitk.ac.in](mailto:chaitanyav23@iitk.ac.in)|
 | Chhavi Tanwar       | Aerospace Engineering            | Y23  | [chhavit23@iitk.ac.in](mailto:chhavit23@iitk.ac.in)      |
 | Devansh Kartik      | Physics                          | Y23  | [devanshk23@iitk.ac.in](mailto:devanshk23@iitk.ac.in)    |
@@ -47,7 +48,6 @@ nav_order: 5
 | Rishabh Kumar       | Civil Engineering                | Y23  | [krishabh23@iitk.ac.in](mailto:krishabh23@iitk.ac.in)    |
 | Rishabh Verma       | Mechanical Engineering           | Y23  | [rishabhv23@iitk.ac.in](mailto:rishabhv23@iitk.ac.in)    |
 | Sarthak Singh       | Chemical Engineering             | Y23  | [sarthaks23@iitk.ac.in](mailto:sarthaks23@iitk.ac.in)    |
-| Sarvesh Bharambe    | Physics                          | Y23  | [sarveshp23@iitk.ac.in](mailto:sarveshp23@iitk.ac.in)    |
 | Shohom De           | Economics                        | Y23  | [shohomde23@iitk.ac.in](mailto:shohomde23@iitk.ac.in)    |
 | Shruti              | Electrical Engineering           | Y23  | [shruti23@iitk.ac.in](mailto:shruti23@iitk.ac.in)        |
 | Tanmay Rajput       | Aerospace Engineering            | Y23  | [tanmayr23@iitk.ac.in](mailto:tanmayr23@iitk.ac.in)      |
