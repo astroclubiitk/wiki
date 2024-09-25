@@ -11,7 +11,8 @@ nav_order: 3
 Blazars are extremely energetic and compact [active galactic nuclei (AGN)](./AGNs.html) with relativistic jets pointing toward an observer. Blazars are a subtype of quasars whose jets point toward Earth.
 
 {: .fun}
->Blazars are so rare that, out of the 1 million quasars identified so far, only 2,700 are blazars.
+
+> Blazars are so rare that, out of the 1 million quasars identified so far, only 2,700 are blazars.
 
 ### Formation
 

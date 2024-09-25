@@ -22,7 +22,7 @@ There are two main types of Cepheid variables:
 
 {: .fun }
 
- The first Cepheid variable ever discovered, Delta Cephei, is so famous that it gave its name to the entire class of these stars! Astronomers have been using Delta Cephei as a cosmic yardstick for over 200 years, and it’s located only about 887 light years away, making it one of the closest Cepheids to Earth. It's like the celebrity of pulsating stars!
+> The first Cepheid variable ever discovered, Delta Cephei, is so famous that it gave its name to the entire class of these stars! Astronomers have been using Delta Cephei as a cosmic yardstick for over 200 years, and it’s located only about 887 light years away, making it one of the closest Cepheids to Earth. It's like the celebrity of pulsating stars!
 
 ### The Period-Luminosity Relationship
 
@@ -31,7 +31,7 @@ Why It Matters: By observing the period of a Cepheid’s pulsation, astronomers 
 
 {: .fun }
 
-Cepheids were critical in helping Edwin Hubble discover that the universe is expanding. He used Cepheids in distant galaxies to prove they were moving away from us!
+> Cepheids were critical in helping Edwin Hubble discover that the universe is expanding. He used Cepheids in distant galaxies to prove they were moving away from us!
 
 ### Reason of Pulsations of Cepheid Variables
 
@@ -40,7 +40,7 @@ The pulsation of Cepheid variables is due to the kappa mechanism, which involves
 1. Ionisation of Helium: As the star’s outer layers heat up, helium atoms become ionised (He → He⁺ and He⁺ → He²⁺). This increases the opacity of the star’s atmosphere, trapping radiation and raising internal pressure.
 
 2. Expansion: The increased pressure causes the star to expand. As it expands, the outer layers cool, reducing the ionisation of helium.
-Recombination: As the star cools, helium recombines into neutral helium, reducing opacity and allowing radiation to escape. This causes the pressure to drop.
+   Recombination: As the star cools, helium recombines into neutral helium, reducing opacity and allowing radiation to escape. This causes the pressure to drop.
 
 3. Contraction: With less pressure, gravity pulls the star’s outer layers inward, causing the star to contract and heat up again, restarting the ionisation process.
 
@@ -52,8 +52,8 @@ Below here, you can observe the light curve of a Cepheid variable that shows the
 
 {: .fun }
 
-By using Cepheids, we’ve been able to refine our estimates for the Hubble constant, which in turn helps us estimate the age of the universe. These stars help us put a number on the vastness of time!
+> By using Cepheids, we’ve been able to refine our estimates for the Hubble constant, which in turn helps us estimate the age of the universe. These stars help us put a number on the vastness of time!
 
 {: .note }
 
-Henrietta Leavitt made groundbreaking discoveries in astrophysics without ever having access to a telescope! At the time, women were often restricted from using Harvard telescopes, but Leavitt used photographic plates and discovered the relationship between the brightness and the period of Cepheid variable stars and hence cepheid variables.
+> Henrietta Leavitt made groundbreaking discoveries in astrophysics without ever having access to a telescope! At the time, women were often restricted from using Harvard telescopes, but Leavitt used photographic plates and discovered the relationship between the brightness and the period of Cepheid variable stars and hence cepheid variables.

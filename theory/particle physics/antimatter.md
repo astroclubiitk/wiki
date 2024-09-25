@@ -15,7 +15,8 @@ Studying about antimatter has always fascinated us. What is antimatter and how i
 In a nutshell, antimatter is like the mirror image of regular matter. It's made up of antiparticles, which are the opposite of regular particles like electrons, protons, and neutrons. It has the same mass as regular matter, but opposite charges. For example, an antielectron (also called a positron) has the same mass as an electron, but it has a positive charge instead of a negative charge. When antimatter meets regular matter, they annihilate each other, releasing a huge amount of energy in the process.
 
 {: .fun}
->One of the most exciting potential applications of antimatter is in space travel. Because antimatter releases so much energy when it meets regular matter, scientists think that it could be used as a powerful fuel source for spacecraft. Scientists are also exploring the potential of antimatter as a source of energy. Because antimatter releases so much energy when it meets regular matter, it could be used to generate electricity in power plants.
+
+> One of the most exciting potential applications of antimatter is in space travel. Because antimatter releases so much energy when it meets regular matter, scientists think that it could be used as a powerful fuel source for spacecraft. Scientists are also exploring the potential of antimatter as a source of energy. Because antimatter releases so much energy when it meets regular matter, it could be used to generate electricity in power plants.
 
 ### How did we know something like antimatter should exist (Dirac Equation)
 
@@ -28,7 +29,7 @@ The concept of antimatter was first proposed by Paul Dirac in 1928, when he was 
 The Dirac equation is like a recipe for understanding how electrons behave. It's a mathematical formula that helps us predict how electrons will move and interact with other particles.
 
 \begin{equation}
-  iℏ(∂ψ/∂t) = Hψ
+iℏ(∂ψ/∂t) = Hψ
 \end{equation}
 
 Let's break down the equation into smaller parts:
@@ -48,8 +49,10 @@ The Dirac equation predicts some really cool things about electrons:
 3. Antimatter: The Dirac equation predicts the existence of antimatter, which is like a mirror image of regular matter. It's like having a twin sibling who looks just like you, but is opposite in every way.
 
 {: .fun}
->In 1932, Carl Anderson, an American physicist, was studying cosmic rays using a cloud chamber. He observed a particle that seemed to have the same mass as an electron, but with a positive charge. This was the first experimental evidence for the existence of antimatter!
-Anderson's discovery was a major breakthrough, and it confirmed Dirac's prediction of the existence of antiparticles. The particle he discovered was called the positron, which is the antiparticle of the electron.
+
+> In 1932, Carl Anderson, an American physicist, was studying cosmic rays using a cloud chamber. He observed a particle that seemed to have the same mass as an electron, but with a positive charge. This was the first experimental evidence for the existence of antimatter!
+>
+> Anderson's discovery was a major breakthrough, and it confirmed Dirac's prediction of the existence of antiparticles. The particle he discovered was called the positron, which is the antiparticle of the electron.
 
 ### Antisymmetry between antiparticles and particles
 
@@ -60,7 +63,7 @@ Antimatter is made up of antiparticles, which are the opposite of regular partic
 3. Neutron (n): The antiparticle of a neutron is called an antineutron (n). It has the same mass as a neutron, but opposite spin and magnetic moment.
 
 The key feature of antiparticles is that they have opposite properties to their corresponding particles. This is known as antisymmetry.
- Here are some examples of antisymmetry between antiparticles and particles:
+Here are some examples of antisymmetry between antiparticles and particles:
 
 1. Charge: Antiparticles have opposite charges to their corresponding particles. For example, an electron has a negative charge, while a positron has a positive charge.
 2. Spin: Antiparticles have opposite spin to their corresponding particles. For example, an electron has a spin of 1/2, while a positron has a spin of -1/2.
@@ -104,4 +107,5 @@ Several theories and hypotheses have been proposed to explain the matter-antimat
 While these theories and hypotheses are promising, the matter-antimatter asymmetry problem remains one of the greatest unsolved puzzles in physics.
 
 {: .fun}
->Scientists have been able to create small amounts of antimatter in labs using complex machines like the antiproton decelerator at CERN. However, creating antimatter is very expensive and time-consuming, and it's still not clear what we can use it for. Antimatter that is created doesn't last for very long either.
+
+> Scientists have been able to create small amounts of antimatter in labs using complex machines like the antiproton decelerator at CERN. However, creating antimatter is very expensive and time-consuming, and it's still not clear what we can use it for. Antimatter that is created doesn't last for very long either.
