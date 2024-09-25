@@ -25,7 +25,7 @@ There are six lepton types, but probably the most well-known are electrons and [
 
 Unlike quarks, leptons are unique in that they do not come together in order to make more massive particles. They come independently or within simple couples; that is, as a product of beta decay (a process within both stars and radioactive materials).
 
-[Leptons](../../assets/images/theory/particle%20physics/lepton%20sources/neutrinos/lepton.jpg)
+![Leptons](../../assets/images/theory/particle%20physics/lepton%20sources/neutrinos/lepton.jpg)
 
 ### How Are Leptons Produced?
 
