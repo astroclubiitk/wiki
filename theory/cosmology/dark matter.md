@@ -26,7 +26,7 @@ The leading candidates for dark matter include:
 
 1. **[WIMPs (Weakly Interacting Massive Particles):](../particle%20physics/WIMPs.html)** Hypothetical particles that could interact with ordinary matter through gravity and the weak nuclear force. If WIMPs exist, they would have a mass between 10 to 1000 times that of a proton, but interact so rarely that they are difficult to detect.
 
-2. **Axions:** Extremely light particles, potentially with a mass of about 10^{-22} eV, produced in the early universe. They are considered a strong candidate for dark matter due to their theoretical compatibility with particle physics and cosmology.
+2. **Axions:** Extremely light particles, potentially with a mass of about $10^{-22}$ eV, produced in the early universe. They are considered a strong candidate for dark matter due to their theoretical compatibility with particle physics and cosmology.
 
 3. **Sterile Neutrinos:** A type of neutrino that doesn’t interact via the weak force but could still contribute to dark matter. Their mass is thought to be in the range of keV (kilo-electron volts), much higher than that of regular neutrinos.
 
@@ -39,15 +39,15 @@ One of the most effective methods to detect dark matter is through gravitational
 $$ \theta_E = \sqrt{\frac{4GM}{c^2} \cdot \frac{D_{ls}}{D_l D_s}}​ $$
 
 where:
-     - G is the gravitational constant,
-     - M is the mass of the lensing object,
-     - c is the speed of light,
-     - $$ D_{ls}, D_l, $$ and $$ D_s $$​ are the angular diameter distances between the observer and the source, the observer and the lens, and the lens and the source, respectively.
+   - $G$ is the gravitational constant,
+   - $M$ is the mass of the lensing object,
+   - $c$ is the speed of light,
+   - $D_{ls}$, $D_l$, and $D_s$ are the angular diameter distances between the observer and the source, the observer and the lens, and the lens and the source, respectively.
 By analyzing the distortions in light from distant galaxies, astronomers can map out dark matter in galaxy clusters and cosmic structures.
 
 ### Role in Structure Formation
 
-Dark matter is crucial in the formation of galaxies and cosmic structures. In the early universe, slight density fluctuations in dark matter ($$ \frac{\delta \rho}{\rho} \approx 10^{-5} $$) allowed it to gravitationally attract regular matter, seeding the formation of galaxies. As the universe expanded, these dark matter "halos" pulled in gas and dust, leading to the birth of stars, galaxies, and larger structures. Without [dark matter](dark%20matter.html), models suggest the universe would be too smooth, with too little clumping to form the galaxies we observe today.
+Dark matter is crucial in the formation of galaxies and cosmic structures. In the early universe, slight density fluctuations in dark matter ($\frac{\delta \rho}{\rho} \approx 10^{-5}$) allowed it to gravitationally attract regular matter, seeding the formation of galaxies. As the universe expanded, these dark matter "halos" pulled in gas and dust, leading to the birth of stars, galaxies, and larger structures. Without [dark matter](dark%20matter.html), models suggest the universe would be too smooth, with too little clumping to form the galaxies we observe today.
 
 ### Challenges and Ongoing Research
 
