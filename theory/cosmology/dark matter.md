@@ -16,7 +16,7 @@ Dark matter is one of the most elusive and mysterious components of our universe
 
 The idea of dark matter was first introduced in 1933 by Swiss astronomer Fritz Zwicky while studying the Coma Cluster, a group of galaxies located approximately 320 million light-years away. Zwicky observed that the galaxies were moving faster than the mass of visible matter could explain, leading him to conclude that some invisible mass—what he called "dunkle Materie" (German for dark matter)—was providing the extra gravitational pull.
 
-In the 1970s, American astronomer Vera Rubin studied the rotation curves of galaxies, notably Andromeda. According to Newtonian mechanics, stars farther from the center of a galaxy should orbit more slowly than those closer in. However, Rubin found that stars at the outer edges of galaxies were orbiting at speeds nearly constant with stars closer to the center, contradicting the expected Keplerian decline. This phenomenon, called the "galaxy rotation problem" further confirmed the existence of dark matter, suggesting that a hidden mass was distributing gravitational forces evenly across galaxies.
+In the 1970s, American astronomer Vera Rubin studied the rotation curves of galaxies, notably Andromeda. According to Newtonian mechanics, stars farther from the center of a galaxy should orbit more slowly than those closer in. However, Rubin found that stars at the outer edges of galaxies were orbiting at speeds nearly constant with stars closer to the center, contradicting the expected Keplerian decline. This phenomenon, called the "galaxy rotation problem" further confirmed the existence of [dark matter](dark%20matter.html), suggesting that a hidden mass was distributing gravitational forces evenly across galaxies.
 
 ### What is Dark Matter?
 
@@ -24,7 +24,7 @@ Despite its profound impact on the universe, dark matter remains undetectable th
 
 The leading candidates for dark matter include:
 
-1. **WIMPs (Weakly Interacting Massive Particles):** Hypothetical particles that could interact with ordinary matter through gravity and the weak nuclear force. If WIMPs exist, they would have a mass between 10 to 1000 times that of a proton, but interact so rarely that they are difficult to detect.
+1. **[WIMPs (Weakly Interacting Massive Particles):](../particle%20physics/WIMPs.html)** Hypothetical particles that could interact with ordinary matter through gravity and the weak nuclear force. If WIMPs exist, they would have a mass between 10 to 1000 times that of a proton, but interact so rarely that they are difficult to detect.
 
 2. **Axions:** Extremely light particles, potentially with a mass of about 10^{-22} eV, produced in the early universe. They are considered a strong candidate for dark matter due to their theoretical compatibility with particle physics and cosmology.
 
@@ -47,7 +47,7 @@ By analyzing the distortions in light from distant galaxies, astronomers can map
 
 ### Role in Structure Formation
 
-Dark matter is crucial in the formation of galaxies and cosmic structures. In the early universe, slight density fluctuations in dark matter ($$ \frac{\delta \rho}{\rho} \approx 10^{-5} $$) allowed it to gravitationally attract regular matter, seeding the formation of galaxies. As the universe expanded, these dark matter "halos" pulled in gas and dust, leading to the birth of stars, galaxies, and larger structures. Without dark matter, models suggest the universe would be too smooth, with too little clumping to form the galaxies we observe today.
+Dark matter is crucial in the formation of galaxies and cosmic structures. In the early universe, slight density fluctuations in dark matter ($$ \frac{\delta \rho}{\rho} \approx 10^{-5} $$) allowed it to gravitationally attract regular matter, seeding the formation of galaxies. As the universe expanded, these dark matter "halos" pulled in gas and dust, leading to the birth of stars, galaxies, and larger structures. Without [dark matter](dark%20matter.html), models suggest the universe would be too smooth, with too little clumping to form the galaxies we observe today.
 
 ### Challenges and Ongoing Research
 
@@ -58,4 +58,4 @@ There are also alternative explanations, such as Modified Newtonian Dynamics (MO
 
 ### Conclusion
 
-Dark matter remains a cornerstone of modern cosmology, explaining phenomena such as galaxy rotation curves, structure formation, and gravitational lensing that cannot be accounted for by visible matter alone. Although its exact nature remains a mystery, the search for dark matter continues to push the boundaries of physics, and one day, it may lead to groundbreaking discoveries about the fundamental workings of the universe.
+Dark matter remains a cornerstone of modern cosmology, explaining phenomena such as galaxy rotation curves, structure formation, and gravitational lensing that cannot be accounted for by visible matter alone. Although its exact nature remains a mystery, the search for [dark matter](dark%20matter.html) continues to push the boundaries of physics, and one day, it may lead to groundbreaking discoveries about the fundamental workings of the universe.
