@@ -12,22 +12,23 @@ A black hole is an astronomical object with a gravitational pull so strong that 
 
 ### Structure of Black Holes
 ![blackhole](../../assets/images/theory/special%20stars/black%20holes/blackhole.jpg)
-*credits: https://www.zmescience.com/*
+[credits: [ZME Science](https://www.zmescience.com/)]
 
-1. The core of a [black hole](#black-holes), known as a singularity, is a point of infinite density where the known laws of physics break down. 
-Surrounding this singularity is the event horizon, a boundary beyond which escape is impossible. Once an object crosses this boundary, it is pulled into the black hole, never to return.
+1. The core of a [black hole](#black-holes), known as a ***singularity***, is a point of infinite density where the known laws of physics break down. 
 
-2. As matter falls toward the [black hole](#black-holes), it forms an accretion disk, a rotating disk of gas and dust that spirals inwards, heating up and emitting intense radiation. 
+2. Surrounding this singularity is the ***event horizon***, a boundary beyond which escape is impossible. Once an object crosses this boundary, it is pulled into the black hole, never to return.
 
-3. Within this disk, matter can orbit at varying distances, but there exists an innermost stable orbit, the closest point where it can maintain a stable trajectory before being inexorably drawn into the [black hole](#black-holes).
+3. As matter falls toward the [black hole](#black-holes), it forms an ***accretion disk***, a rotating disk of gas and dust that spirals inwards, heating up and emitting intense radiation. 
 
-4. Alongside this accretion process, [black holes](#black-holes) can also produce powerful jets—streams of high-energy particles ejected perpendicularly from the accretion disk, driven by the intense magnetic fields generated in these extreme environments.
+4. Within this disk, matter can orbit at varying distances, but there exists an ***innermost stable orbit***, the closest point where it can maintain a stable trajectory before being inexorably drawn into the [black hole](#black-holes).
 
-5. ontrary to common belief, [black holes](#black-holes) are not empty spaces but rather regions filled with highly compressed matter, creating immense gravitational forces that warp space and time around them.
+5. Alongside this accretion process, [black holes](#black-holes) can also produce powerful ***jets—streams*** of high-energy particles ejected perpendicularly from the accretion disk, driven by the intense magnetic fields generated in these extreme environments.
+
+Contrary to common belief, [black holes](#black-holes) are not empty spaces but rather regions filled with highly compressed matter, creating immense gravitational forces that warp space and time around them.
 
 ### Formation of Black Holes
 
-[Black holes](#black-holes) typically form from the remnants of massive stars that have exhausted their nuclear fuel. When a star depletes its energy, it undergoes a supernova explosion, ejecting its outer layers into space. If the remaining core is massive enough—at least three times the mass of the Sun—it will collapse under its own gravity, forming a black hole. Smaller stars, like the Sun, do not become black holes. Instead, they evolve into white dwarfs or [neutron stars](neutron%20stars.html).
+[Black holes](#black-holes) typically form from the remnants of massive stars that have exhausted their nuclear fuel. When a star depletes its energy, it undergoes a supernova explosion, ejecting its outer layers into space. If the remaining core is massive enough—at least three times the mass of the Sun—it will collapse under its own gravity, forming a black hole. Smaller stars, like the Sun, do not become black holes due to [stellar evolution](../stellar%20physics/evolution.html). Instead, they evolve into white dwarfs or [neutron stars](neutron%20stars.html).
 
 ### Types of Black Holes
 
@@ -54,5 +55,7 @@ Though invisible, [black holes](#black-holes) reveal themselves through their ef
 ### Black Hole Information Paradox
 
 One of the biggest unresolved puzzles in physics is the [black hole](#black-holes) information paradox. According to quantum mechanics, information cannot be destroyed, yet anything that falls into a black hole seems to be lost forever. This conflict with general relativity has sparked significant debate. Some theories suggest information may be encoded at the event horizon or could escape through Hawking radiation, a theoretical process by which black holes gradually lose mass.
+
+**Note**: For more information check out the article on [Black Hole Information Paradox](https://astroclubiitk.in/2020-09-02-blackhole-paradox/)
 
 
