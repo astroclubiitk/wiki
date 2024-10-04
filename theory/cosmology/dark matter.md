@@ -28,15 +28,15 @@ The leading candidates for [dark matter](#dark-matter) include:
 
 2. **Axions:** Extremely light particles, potentially with a mass of about $$10^{-22}$$ eV, produced in the early universe. They are considered a strong candidate for [dark matter](#dark-matter) due to their theoretical compatibility with [particle physics](../particle%20physics/) and [cosmology](../cosmology).
 
-3. **Sterile Neutrinos:** A type of neutrino that doesn’t interact via the weak force but could still contribute to [dark matter](#dark-matter). Their mass is thought to be in the range of keV (kilo-electron volts), much higher than that of regular neutrinos.
+3. **Sterile Neutrinos:** A type of neutrino that doesn't interact via the weak force but could still contribute to [dark matter](#dark-matter). Their mass is thought to be in the range of keV (kilo-electron volts), much higher than that of regular neutrinos.
 
-4. **MACHOs (Massive Compact Halo Objects):** These are large, dense objects like [black holes](../special%20stars/black%20holes.html), [neutron stars](../special%20stars/neutron%20stars.html), or [brown dwarfs](../special%20stars/dwarf%20stars.html) that could contribute to [dark matter](#dark-matter)’s mass, but are insufficient to account for all of it. Observations suggest that MACHOs make up less than 20% of the total [dark matter](#dark-matter).
+4. **MACHOs (Massive Compact Halo Objects):** These are large, dense objects like [black holes](../special%20stars/black%20holes.html), [neutron stars](../special%20stars/neutron%20stars.html), or [brown dwarfs](../special%20stars/dwarf%20stars.html) that could contribute to [dark matter](#dark-matter)'s mass, but are insufficient to account for all of it. Observations suggest that MACHOs make up less than 20% of the total [dark matter](#dark-matter).
 
 ### Gravitational Lensing and Dark Matter
 
-One of the most effective methods to detect [dark matter](#dark-matter) is through gravitational lensing. According to Einstein's general theory of relativity, massive objects, including [dark matter](#dark-matter), bend the path of light. The Einstein radius $$(\theta_E​)$$ quantifies the angle of deflection:
+One of the most effective methods to detect [dark matter](#dark-matter) is through gravitational lensing. According to Einstein's general theory of relativity, massive objects, including [dark matter](#dark-matter), bend the path of light. The Einstein radius $$(\theta_E)$$ quantifies the angle of deflection:
 
-$$ \theta*E = \sqrt{\frac{4GM}{c^2} \cdot \frac{D*{ls}}{D_l D_s}}​ $$
+$$ \theta_E = \sqrt{\frac{4GM}{c^2} \cdot \frac{D_{ls}}{D_l D_s}}​ $$
 
 where:
 
