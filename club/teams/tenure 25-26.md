@@ -10,12 +10,12 @@ nav_order: 5
 
 ### Coordinators
 
-| Name                 | Department                        | Batch | Email                                                     |
-| -------------------- | --------------------------------- | ----- | --------------------------------------------------------- |
-| Chhavi Tanwar        | Aerospace Engineering             | Y23   | [chhavit23@iitk.ac.in](mailto:chhavit23@iitk.ac.in)       |
-| Devansh Kartik       | Physics                           | Y23   | [devanshk23@iitk.ac.in](mailto:devanshk23@iitk.ac.in)     |
-| Pearl Narang         | Aerospace Engineering              | Y23  | [pearln23@iitk.ac.in](mailto:pearln23@iitk.ac.in)         |
-| Tarushi Srivastava   | Mechanical Engineering            | Y23   | [starushi23@iitk.ac.in](mailto:starushi23@iitk.ac.in)     |
+| Name              | Department             | Batch | Email |
+|-------------------|------------------------|-------|-------|
+| Chhavi Tanwar     | Aerospace Engineering  | Y23   | [chhavit23@iitk.ac.in](mailto:chhavit23@iitk.ac.in) |
+| Devansh Kartik    | Physics                | Y23   | [devanshk23@iitk.ac.in](mailto:devanshk23@iitk.ac.in) |
+| Pearl Narang      | Aerospace Engineering  | Y23   | [pearln23@iitk.ac.in](mailto:pearln23@iitk.ac.in) |
+| Tarushi Srivastava| Mechanical Engineering | Y23   | [starushi23@iitk.ac.in](mailto:starushi23@iitk.ac.in) |
 
 ### Associate Members
 
